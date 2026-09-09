@@ -5,12 +5,6 @@ project:
 website:
   title: "DATA 201 Lab Sessions"
   site-url: "https://bonniewohoo.github.io/data_201_lab_sessions"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - href: week2\week_2_slides.qmd
-        text: Week 2
 
 format:
   html:

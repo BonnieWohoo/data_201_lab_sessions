@@ -1,30 +1,65 @@
 [
   {
-    "objectID": "week2/week_2_slides.html#your-ta",
-    "href": "week2/week_2_slides.html#your-ta",
-    "title": "DATA 201 B03",
+    "objectID": "week_2_slides.html#todays-outline",
+    "href": "week_2_slides.html#todays-outline",
+    "title": "DATA 201 Week 2",
+    "section": "Today’s Outline",
+    "text": "Today’s Outline\n\nBoring stuff, e.g. TA, communications, office hours\nLab Session Info\nGroup formation\nMovement break\nAssignment 1\nQualtrics"
+  },
+  {
+    "objectID": "week_2_slides.html#your-ta",
+    "href": "week_2_slides.html#your-ta",
+    "title": "DATA 201 Week 2",
     "section": "Your TA",
-    "text": "Your TA\n\nTurn off alarm\nGet out of bed"
+    "text": "Your TA\n\n\nCall me Bonnie\nMaster’s Student in Computer Science at the Interactions Lab under Dr. Wesley Willett\nInterests in data storytelling\nHobbies: TV, video games, knitting"
   },
   {
-    "objectID": "week2/week_2_slides.html#slide-2",
-    "href": "week2/week_2_slides.html#slide-2",
-    "title": "DATA 201 B03",
-    "section": "Slide 2",
-    "text": "Slide 2\n\nGet in bed\nCount sheep"
+    "objectID": "week_2_slides.html#communications",
+    "href": "week_2_slides.html#communications",
+    "title": "DATA 201 Week 2",
+    "section": "Communications",
+    "text": "Communications\n\nEmail: bonnie.wu@ucalgary.ca\nI will try to respond as soon as I can on weekdays from MST 9AM - 5PM\nEmail subject line: include “DATA 201 + Lab Session” e.g. “DATA 201 B03”, “DATA 201 B03”\nOffice hours: Online over Zoom on Thursdays from MST 11AM - 12PM\n\nMeeting ID: 975 9813 6593\nPasscode: 325942"
   },
   {
-    "objectID": "week2/week_2_slides.html#slide-3",
-    "href": "week2/week_2_slides.html#slide-3",
-    "title": "DATA 201 B03",
-    "section": "Slide 3",
-    "text": "Slide 3"
+    "objectID": "week_2_slides.html#lab-session-info",
+    "href": "week_2_slides.html#lab-session-info",
+    "title": "DATA 201 Week 2",
+    "section": "Lab Session Info",
+    "text": "Lab Session Info\n\nWe don’t take attendance, but we will be learning content\nGroup Project checkpoint meetings: in-person"
+  },
+  {
+    "objectID": "week_2_slides.html#group-formation",
+    "href": "week_2_slides.html#group-formation",
+    "title": "DATA 201 Week 2",
+    "section": "Group formation",
+    "text": "Group formation\n\nAre you in a group yet?\nJoin a group on D2L under “DATA 201&gt;Communications&gt;Groups”\nMake sure you’re enrolled in the correct LAB section"
+  },
+  {
+    "objectID": "week_2_slides.html#movement-break",
+    "href": "week_2_slides.html#movement-break",
+    "title": "DATA 201 Week 2",
+    "section": "Movement Break",
+    "text": "Movement Break\nStand on the right or left depending on your answer!"
+  },
+  {
+    "objectID": "week_2_slides.html#assignment-1",
+    "href": "week_2_slides.html#assignment-1",
+    "title": "DATA 201 Week 2",
+    "section": "Assignment 1",
+    "text": "Assignment 1\n\nDUE DATE: September 13\nAssignment 1 details are on D2L\nStart here -&gt; TCPS"
+  },
+  {
+    "objectID": "week_2_slides.html#qualtrics",
+    "href": "week_2_slides.html#qualtrics",
+    "title": "DATA 201 Week 2",
+    "section": "Qualtrics",
+    "text": "Qualtrics\n\nLogin into Qualtrics\nYou will use it for Assignment 2"
   },
   {
     "objectID": "index.html#links",
     "href": "index.html#links",
     "title": "DATA 201 Lab Sessions",
     "section": "Links",
-    "text": "Links\n[Week 2 Lab Slides] (week2/week_2_slides.qmd)."
+    "text": "Links\nWeek 2 Lab Slides"
   }
 ]

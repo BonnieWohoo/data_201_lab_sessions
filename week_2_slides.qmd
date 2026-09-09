@@ -1,0 +1,54 @@
+---
+title: "DATA 201 Week 2"
+author: "Bonnie Wu"
+format: 
+  revealjs:
+    theme: default
+    slide-number: true
+    chalkboard: true
+---
+
+## Today's Outline
+- Boring stuff, e.g. TA, communications, office hours
+- Lab Session Info
+- Group formation
+- Movement break
+- Assignment 1
+- Qualtrics
+
+## Your TA
+<img src=https://ilab.ucalgary.ca/static/images/people/bonnie-wu.jpg alt="Photo of Bonnie" style="width=100px; border-radius:50%"/>
+
+- Call me Bonnie 
+- Master's Student in Computer Science at the [Interactions Lab](https://ilab.ucalgary.ca/) under Dr. Wesley Willett
+- Interests in data storytelling
+- Hobbies: TV, video games, knitting
+
+## Communications
+- Email: bonnie.wu@ucalgary.ca
+- I will try to respond as soon as I can on **weekdays** from **MST 9AM - 5PM**
+- Email subject line: include "DATA 201 + Lab Session" e.g. "DATA 201 B03", "DATA 201 B03" 
+- Office hours: Online over [Zoom](https://ucalgary.zoom.us/j/97598136593) on Thursdays from MST 11AM - 12PM
+  - Meeting ID: **975 9813 6593**
+  - Passcode: **325942**
+
+## Lab Session Info
+- We don't take attendance, but we will be learning content 
+- Group Project checkpoint meetings: in-person
+
+## Group formation
+- Are you in a [group](https://d2l.ucalgary.ca/d2l/lms/group/user_group_list.d2l?ou=769633) yet?
+- Join a group on D2L under "DATA 201>Communications>Groups"
+- Make sure you're enrolled in the correct LAB section
+
+## Movement Break
+Stand on the right or left depending on your answer!
+
+## Assignment 1
+- **DUE DATE: September 13**
+- Assignment 1 details are on [D2L](https://d2l.ucalgary.ca/d2l/le/content/769633/viewContent/7727552/View)
+- Start here -> [TCPS](https://tcps2core.ca/welcome)
+
+## Qualtrics
+- Login into [Qualtrics](https://www.ucalgary.ca/provost/oia/survey/accessing-qualtrics/ucalgary-qualtrics)
+- You will use it for Assignment 2
