@@ -24,13 +24,13 @@ format:
 
 - Call me Bonnie 
 - Master's Student in Computer Science at the [Interactions Lab](https://ilab.ucalgary.ca/) under Dr. Wesley Willett
-- Interests in data storytelling
+- Interests: data storytelling
 - Hobbies: TV, video games, knitting
 
 ## Communications
 - Email: bonnie.wu@ucalgary.ca
 - I will try to respond as soon as I can on **weekdays** from **MST 9AM - 5PM**
-- Email subject line: include "DATA 201 + Lab Session" e.g. "DATA 201 B03", "DATA 201 B03" 
+- Email subject line: include "DATA 201 + Lab Session" e.g. "DATA 201 B03", "DATA 201 B08" 
 - Office hours: Online over [Zoom](https://ucalgary.zoom.us/j/97598136593) on Thursdays from MST 11AM - 12PM
   - Meeting ID: **975 9813 6593**
   - Passcode: **325942**
@@ -67,7 +67,9 @@ What might have been wrong with this activity?
 ## Assignment 1
 - **DUE DATE: September 13**
 - Assignment 1 details are on [D2L](https://d2l.ucalgary.ca/d2l/le/content/769633/viewContent/7727552/View)
-- Link to -> [TCPS](https://tcps2core.ca/welcome)
+- Part one: Tri-Council Policy Statement Modules
+  - Link to -> [TCPS](https://tcps2core.ca/welcome)
+- Part two: Response to case studies (see D2L)
 
 ## Assignment 1
 ![](TCPS_instructions.png)
@@ -79,3 +81,9 @@ What might have been wrong with this activity?
 ## Are you ahead?
 If you are ahead in assignments, consider looking at Group Project Part 1!
 ![](Group_project_part_1.png)
+
+## Random, but maybe cool things?
+Pudding.cool has many [data stories](https://pudding.cool/)
+[Film Dialogue from 2,000 screenplays, Broken Down by Gender and Age](https://pudding.cool/2017/03/film-dialogue/)
+[Ethical NBA champions](https://pudding.cool/2026/06/ethical-champions/)
+[30 minutes with a stranger](https://pudding.cool/2025/06/hello-stranger/)
