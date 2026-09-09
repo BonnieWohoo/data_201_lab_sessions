@@ -1,6 +1,6 @@
 ---
-title: "Habits"
-author: "Bonnie"
+title: "DATA 201 Lab Sessions"
+author: "Bonnie Wu"
 format: 
   revealjs:
     theme: default
@@ -12,13 +12,3 @@ format:
       data-background-opacity: "0.3"
       data-background-position: "bottom"
 ---
-
-## Getting up
-
-- Turn off alarm
-- Get out of bed
-
-## Going to sleep
-
-- Get in bed
-- Count sheep

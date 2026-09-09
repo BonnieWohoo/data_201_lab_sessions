@@ -1,6 +1,6 @@
 ---
-title: "Presentation 1"
-author: "Bonnie"
+title: "DATA 201 B03"
+author: "Bonnie Wu"
 format: 
   revealjs:
     theme: default
@@ -13,7 +13,7 @@ format:
       data-background-position: "bottom"
 ---
 
-## Slide 1
+## Your TA
 
 - Turn off alarm
 - Get out of bed

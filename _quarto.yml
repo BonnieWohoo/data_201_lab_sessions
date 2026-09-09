@@ -3,8 +3,14 @@ project:
   output-dir: docs
 
 website:
-  title: "Bonnie's Repo"
-  site-url: "https://bonniewohoo.github.io/cpsc_601"
+  title: "DATA 201 Lab Sessions"
+  site-url: "https://bonniewohoo.github.io/data_201_lab_sessions"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: week_2_slides\week_2_slides_B03.qmd
+        text: Week 2
 
 format:
   html:
