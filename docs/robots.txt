@@ -1,1 +1,1 @@
-Sitemap: https://bonniewohoo.github.io/cpsc_601/sitemap.xml
+Sitemap: https://bonniewohoo.github.io/data_201_lab_sessions/sitemap.xml
