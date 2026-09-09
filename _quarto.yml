@@ -9,7 +9,7 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: week_2_slides\week_2_slides_B03.qmd
+      - href: week2\week_2_slides.qmd
         text: Week 2
 
 format:

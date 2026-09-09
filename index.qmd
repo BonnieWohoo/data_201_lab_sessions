@@ -12,3 +12,6 @@ format:
       data-background-opacity: "0.3"
       data-background-position: "bottom"
 ---
+
+## Links
+[Week 2 Lab Slides] (week2/week_2_slides.qmd).
