@@ -88,6 +88,104 @@
     "href": "index.html#links",
     "title": "DATA 201 Lab Sessions",
     "section": "Links",
-    "text": "Links\nWeek 2 Lab Slides"
+    "text": "Links\nWeek 2 Lab Slides Week 3 Session 1"
+  },
+  {
+    "objectID": "week3_session1.html#todays-outline",
+    "href": "week3_session1.html#todays-outline",
+    "title": "DATA 201 Week 3 Session 1",
+    "section": "Today’s Outline",
+    "text": "Today’s Outline\n\nReview Attributes and Levels of measurement\nQualtrics Demo\nGroup Activity\nAssignment 2 Info\nGroup Project\nGroup Project Part 1"
+  },
+  {
+    "objectID": "week3_session1.html#attributes",
+    "href": "week3_session1.html#attributes",
+    "title": "DATA 201 Week 3 Session 1",
+    "section": "Attributes",
+    "text": "Attributes\n\nWhat is an attribute?\n\nQualities and characters that describe a data object or instance\nExample: Company surveying their employee’s happiness\nData object:  Employee \nAttributes: job position, working-hours satisifaction, team satisfaction"
+  },
+  {
+    "objectID": "week3_session1.html#levels-of-measurement",
+    "href": "week3_session1.html#levels-of-measurement",
+    "title": "DATA 201 Week 3 Session 1",
+    "section": "Levels of measurement",
+    "text": "Levels of measurement\n\nNominal\nOrdinal\nInterval\nRatio"
+  },
+  {
+    "objectID": "week3_session1.html#nominal",
+    "href": "week3_session1.html#nominal",
+    "title": "DATA 201 Week 3 Session 1",
+    "section": "Nominal",
+    "text": "Nominal\n\nLabels that have no natural order; order is interchangeable\nGender: female, male\nEye colour: brown, green, blue\nPlace you live: city, suburbs, rural\nLanguages that you speak: English, French, Spanish\nIf there are only two categories, we can say that it is binary/dichotomous\n\nyes/no"
+  },
+  {
+    "objectID": "week3_session1.html#ordinal",
+    "href": "week3_session1.html#ordinal",
+    "title": "DATA 201 Week 3 Session 1",
+    "section": "Ordinal",
+    "text": "Ordinal\n\nlabels that have a natural/or meaningful order\nVery unsatisfied, unsatisfied, neutral, satisfied, very satisfied\n\nsatisfied is better than unsatisfied\n\nSchool grades: A is better than B and B is better than C\nFrequency of watching TV\n\n1 = daily\n2 = several times a week\n3 = several times a month\n4 = never"
+  },
+  {
+    "objectID": "week3_session1.html#ratio",
+    "href": "week3_session1.html#ratio",
+    "title": "DATA 201 Week 3 Session 1",
+    "section": "Ratio",
+    "text": "Ratio\n\nRatio scale has equal intervals\nHas a meaningful zero\n\n0 grams means something has no mass\n\nComparisons are meaningful\n\n100 cm is twice as long as 50 cm\n5kgs is half as heavy as 10 kgs"
+  },
+  {
+    "objectID": "week3_session1.html#interval",
+    "href": "week3_session1.html#interval",
+    "title": "DATA 201 Week 3 Session 1",
+    "section": "Interval",
+    "text": "Interval\n\nAlso has equal intervals, but no meaningful zero\nDifference between 10°C and 20°C is the same size as 20°C and 30°C\n\nBUT 20°C is not twice as hot as 10°C\n0°C is not an absolute/meaningful zero\n\nKelvins has an absolute zero, so it would be ratio"
+  },
+  {
+    "objectID": "week3_session1.html#quiz",
+    "href": "week3_session1.html#quiz",
+    "title": "DATA 201 Week 3 Session 1",
+    "section": "Quiz",
+    "text": "Quiz\n\n\n\n\n#\nExample\nLevel of Measurement\n\n\n\n\n1\nStates of the USA\n?\n\n\n2\nProduct rating (1–5)\n?\n\n\n3\nReligious affiliation\n?\n\n\n4\nCO₂ emissions per year\n?\n\n\n5\nIQ scores\n?\n\n\n6\nExamination grades (1–5)\n?\n\n\n7\nTelephone numbers\n?\n\n\n8\nPatient care level\n?\n\n\n9\nLiving space (m²)\n?\n\n\n10\nJob satisfaction (1–4)\n?"
+  },
+  {
+    "objectID": "week3_session1.html#quiz-answers",
+    "href": "week3_session1.html#quiz-answers",
+    "title": "DATA 201 Week 3 Session 1",
+    "section": "Quiz answers",
+    "text": "Quiz answers\n\n\n\n\n#\nExample\nLevel of Measurement\n\n\n\n\n1\nStates of the USA\nNominal\n\n\n2\nProduct rating (1–5)\nOrdinal\n\n\n3\nReligious affiliation\nNominal\n\n\n4\nCO₂ emissions per year\nRatio\n\n\n5\nIQ scores\nInterval\n\n\n6\nExamination grades (1–5)\nOrdinal\n\n\n7\nTelephone numbers\nNominal\n\n\n8\nPatient care level\nOrdinal\n\n\n9\nLiving space (m²)\nRatio\n\n\n10\nJob satisfaction (1–4)\nOrdinal"
+  },
+  {
+    "objectID": "week3_session1.html#qualtrics-demo",
+    "href": "week3_session1.html#qualtrics-demo",
+    "title": "DATA 201 Week 3 Session 1",
+    "section": "Qualtrics Demo",
+    "text": "Qualtrics Demo\n\nLink to Qualtrics\nResearch objective: Observe study habits of university students\n\n\n\n\nAttribute\nLevel of measurement\n\n\n\n\nFrequency of study\nOrdinal or Ratio\n\n\nStudy session duration (minutes)\nRatio\n\n\nStudy method\nNominal\n\n\nStudy location on campus\nNominal\n\n\nIdeal letter grade (A, B, C)\nOrdinal\n\n\n\n\nExample"
+  },
+  {
+    "objectID": "week3_session1.html#group-activity",
+    "href": "week3_session1.html#group-activity",
+    "title": "DATA 201 Week 3 Session 1",
+    "section": "Group activity",
+    "text": "Group activity\n\n(Loose) Research objective: Examine lifestyle habits\n\nCreate a survey with 5 questions with qualtrics\nDetermine the level of measurement"
+  },
+  {
+    "objectID": "week3_session1.html#assignment-2",
+    "href": "week3_session1.html#assignment-2",
+    "title": "DATA 201 Week 3 Session 1",
+    "section": "Assignment 2",
+    "text": "Assignment 2\n\nDeadline: September 20\nIndividual assignment\nPDF and preview of Qualtrics survey\nPlease review the specifications on D2L"
+  },
+  {
+    "objectID": "week3_session1.html#group-project-specs",
+    "href": "week3_session1.html#group-project-specs",
+    "title": "DATA 201 Week 3 Session 1",
+    "section": "Group Project Specs",
+    "text": "Group Project Specs\n\nEveryone should be in a group\nPlease read the PDF “Working with Primary Data for DATA 201 Group Project”"
+  },
+  {
+    "objectID": "week3_session1.html#group-project-part-1",
+    "href": "week3_session1.html#group-project-part-1",
+    "title": "DATA 201 Week 3 Session 1",
+    "section": "Group Project Part 1",
+    "text": "Group Project Part 1\n\nPresentations next lab session: September 16th\n3 minutes\nPlease be here in person\nSlide deck is due September 20\n\nNext lab session, you will get feedback on your project"
   }
 ]

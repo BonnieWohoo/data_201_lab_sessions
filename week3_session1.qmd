@@ -1,0 +1,145 @@
+---
+title: "DATA 201 Week 3 Session 1"
+author: "Bonnie Wu"
+format: 
+  revealjs:
+    theme: default
+    slide-number: true
+    chalkboard: true
+    transition: slide
+    background-transition: fade
+    incremental: true
+---
+
+## Today's Outline
+- Review Attributes and Levels of measurement
+- Qualtrics Demo
+- Group Activity
+- Assignment 2 Info
+- Group Project
+- Group Project Part 1
+
+## Attributes
+- What is an attribute?
+    - Qualities and characters that describe a data object or instance
+    - Example: Company surveying their employee's happiness
+    - Data object: <span class="fragment"> Employee </span>
+    - Attributes: job position, working-hours satisifaction, team satisfaction
+
+## Levels of measurement
+- Nominal
+- Ordinal
+- Interval
+- Ratio
+
+## Nominal
+- Labels that have no natural order; order is interchangeable
+- Gender: female, male
+- Eye colour: brown, green, blue
+- Place you live: city, suburbs, rural
+- Languages that you speak: English, French, Spanish
+- If there are only two categories, we can say that it is binary/dichotomous
+  - yes/no
+
+## Ordinal
+- labels that have a natural/or meaningful order
+- Very unsatisfied, unsatisfied, neutral, satisfied, very satisfied
+  - satisfied is better than unsatisfied
+- School grades: A is better than B and B is better than C
+- Frequency of watching TV
+  - 1 = daily
+  - 2 = several times a week
+  - 3 = several times a month
+  - 4 = never
+
+## Ratio
+- Ratio scale has equal intervals 
+- Has a meaningful zero
+  - 0 grams means something has no mass
+- Comparisons are meaningful
+  - 100 cm is twice as long as 50 cm
+  - 5kgs is half as heavy as 10 kgs
+
+## Interval
+- Also has equal intervals, but no meaningful zero
+- Difference between 10°C and 20°C is the same size as 20°C and 30°C
+  - BUT 20°C is not twice as hot as 10°C
+  - 0°C is not an absolute/meaningful zero
+    - Kelvins has an absolute zero, so it would be ratio
+
+## Quiz
+<div class="nonincremental" style="font-size: 0.75em;">
+
+| **#** | **Example** | **Level of Measurement** |
+|---|---|---|
+| 1 | States of the USA | ? |
+| 2 | Product rating (1–5) | ? |
+| 3 | Religious affiliation | ? |
+| 4 | CO₂ emissions per year | ? |
+| 5 | IQ scores | ? |
+| 6 | Examination grades (1–5) | ? |
+| 7 | Telephone numbers | ? |
+| 8 | Patient care level | ? |
+| 9 | Living space (m²) | ? |
+| 10 | Job satisfaction (1–4) | ? |
+
+</div>
+
+## Quiz answers
+
+<div class="nonincremental" style="font-size: 0.75em;">
+
+| **#** | **Example** | **Level of Measurement** |
+|---|---|---|
+| 1 | States of the USA | <span class="fragment">Nominal</span> |
+| 2 | Product rating (1–5) | <span class="fragment">Ordinal</span> |
+| 3 | Religious affiliation | <span class="fragment">Nominal</span> |
+| 4 | CO₂ emissions per year | <span class="fragment">Ratio</span> |
+| 5 | IQ scores | <span class="fragment">Interval</span> |
+| 6 | Examination grades (1–5) | <span class="fragment">Ordinal</span> |
+| 7 | Telephone numbers | <span class="fragment">Nominal</span> |
+| 8 | Patient care level | <span class="fragment">Ordinal</span> |
+| 9 | Living space (m²) | <span class="fragment">Ratio</span> |
+| 10 | Job satisfaction (1–4) | <span class="fragment">Ordinal</span> |
+
+</div>
+
+## Qualtrics Demo {incremental=false}
+- [Link to Qualtrics](https://www.ucalgary.ca/provost/oia/survey/accessing-qualtrics/ucalgary-qualtrics)
+- Research objective: Observe study habits of university students
+<div class="nonincremental" style="font-size: 0.75em;">
+| Attribute | Level of measurement |
+|---|---|
+| Frequency of study | Ordinal or Ratio |
+| Study session duration (minutes)| Ratio |
+| Study method | Nominal |
+| Study location on campus | Nominal|
+| Ideal letter grade (A, B, C) | Ordinal |
+</div>
+
+- [Example](https://survey.ucalgary.ca/jfe6/preview/previewId/0feda410-705e-49df-a745-1d7dec36920d/SV_cZwS6frReai3Vgq?Q_CHL=preview&Q_SurveyVersionID=current)
+
+## Group activity
+- (Loose) Research objective: Examine lifestyle habits
+  - Create a survey with 5 questions with qualtrics
+  - Determine the level of measurement
+
+## Assignment 2
+- Deadline: **September 20**
+- Individual assignment
+- PDF and preview of Qualtrics survey
+- Please review the specifications on D2L
+
+## Group Project Specs
+- Everyone should be in a group
+- Please read the PDF "Working with Primary Data for DATA 201 Group Project"
+
+## Group Project Part 1
+- Presentations next lab session: **September 16th**
+- 3 minutes
+- Please be here in person
+- Slide deck is due **September 20**
+  - Next lab session, you will get feedback on your project
+
+## 
+![](Group_project_part_1.png)
