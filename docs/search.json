@@ -88,7 +88,7 @@
     "href": "index.html#links",
     "title": "DATA 201 Lab Sessions",
     "section": "Links",
-    "text": "Links\nWeek 2 Lab Slides Week 3 Session 1"
+    "text": "Links\nWeek 2 Lab Slides /\nWeek 3 Session 1"
   },
   {
     "objectID": "week3_session1.html#todays-outline",
@@ -102,7 +102,7 @@
     "href": "week3_session1.html#attributes",
     "title": "DATA 201 Week 3 Session 1",
     "section": "Attributes",
-    "text": "Attributes\n\nWhat is an attribute?\n\nQualities and characters that describe a data object or instance\nExample: Company surveying their employee’s happiness\nData object:  Employee \nAttributes: job position, working-hours satisifaction, team satisfaction"
+    "text": "Attributes\n\nWhat is an attribute?\n\nQualities and characteristics that describe a data object or instance\nExample: Company surveying their employee’s happiness\nData object:  Employee \nAttributes: job position, working-hours satisifaction, team satisfaction"
   },
   {
     "objectID": "week3_session1.html#levels-of-measurement",
@@ -158,7 +158,7 @@
     "href": "week3_session1.html#qualtrics-demo",
     "title": "DATA 201 Week 3 Session 1",
     "section": "Qualtrics Demo",
-    "text": "Qualtrics Demo\n\nLink to Qualtrics\nResearch objective: Observe study habits of university students\n\n\n\n\nAttribute\nLevel of measurement\n\n\n\n\nFrequency of study\nOrdinal or Ratio\n\n\nStudy session duration (minutes)\nRatio\n\n\nStudy method\nNominal\n\n\nStudy location on campus\nNominal\n\n\nIdeal letter grade (A, B, C)\nOrdinal\n\n\n\n\nExample"
+    "text": "Qualtrics Demo\n\nLink to Qualtrics\nResearch objective: Observe study habits of university students\n\n\n\n\nAttribute\nLevel of measurement\n\n\n\n\nFrequency of study\nOrdinal or Ratio\n\n\nStudy session duration (minutes)\nRatio\n\n\nStudy method\nNominal\n\n\nStudy location on campus\nNominal\n\n\nIdeal letter grade (A, B, C)\nOrdinal\n\n\n\n\nExample we did in class"
   },
   {
     "objectID": "week3_session1.html#group-activity",
