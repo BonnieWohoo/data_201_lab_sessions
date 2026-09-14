@@ -21,7 +21,7 @@ format:
 
 ## Attributes
 - What is an attribute?
-    - Qualities and characters that describe a data object or instance
+    - Qualities and characteristics that describe a data object or instance
     - Example: Company surveying their employee's happiness
     - Data object: <span class="fragment"> Employee </span>
     - Attributes: job position, working-hours satisifaction, team satisfaction
@@ -117,7 +117,7 @@ format:
 | Ideal letter grade (A, B, C) | Ordinal |
 </div>
 
-- [Example](https://survey.ucalgary.ca/jfe6/preview/previewId/0feda410-705e-49df-a745-1d7dec36920d/SV_cZwS6frReai3Vgq?Q_CHL=preview&Q_SurveyVersionID=current)
+- [Example we did in class](https://survey.ucalgary.ca/jfe6/preview/previewId/fabac5a6-3a92-47f3-a054-4d09d3a05144/SV_e40qGN5dPUxFcyO?Q_CHL=preview&Q_SurveyVersionID=current)
 
 ## Group activity
 - (Loose) Research objective: Examine lifestyle habits
