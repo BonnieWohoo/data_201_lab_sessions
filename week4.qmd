@@ -1,0 +1,35 @@
+---
+title: "DATA 201 Week 4: Data cleaning"
+author: "Bonnie Wu"
+format: 
+  revealjs:
+    theme: default
+    slide-number: true
+    chalkboard: true
+    transition: slide
+    background-transition: fade
+    incremental: true
+---
+
+## Today's Outline
+- Office Hours
+- Assignment Reminders
+- Excel data cleaning tutorial
+
+## Office Hours
+- Changing office hours to Thursday 1-2pm 
+
+## Assignment Reminders
+- Double check submission format - e.g. Single PDF
+- Cite your references
+- Portrait orientation
+- Assignment 1 marks should be released soon
+
+## Excel data cleaning tutorial
+
+## Power Query tutorial
+- Power Query in excel
+- Worktime: Week 2 > Friday > Learning Resources > Health System for G7 Countries Raw Data 
+If more than 40% of rows are empty, good to drop that column
+- Imputing data is subjective
+    - You should be able to explain what data you are using to impute

@@ -10,6 +10,6 @@ format:
 
 ## Links
 
-[Week 2 Lab Slides](./week_2_slides.qmd) /
+[Week 2 Lab Slides](./week_2_slides.qmd) 
 
-[Week 3 Session 1](./week3_session1.qmd)
+[Week 3 Lab Slides](./week3_session1.qmd)
