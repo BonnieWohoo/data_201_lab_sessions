@@ -193,14 +193,14 @@
     "href": "index.html#links",
     "title": "DATA 201 Lab Sessions",
     "section": "Links",
-    "text": "Links\nWeek 2 Lab Slides\nWeek 3 Lab Slides"
+    "text": "Links\nWeek 2 Lab Slides\nWeek 3 Lab Slides\nWeek 4 Lab Slides"
   },
   {
     "objectID": "week4.html#todays-outline",
     "href": "week4.html#todays-outline",
     "title": "DATA 201 Week 4: Data cleaning",
     "section": "Today’s Outline",
-    "text": "Today’s Outline\n\nOffice Hours\nAssignment Reminders\nExcel data cleaning tutorial"
+    "text": "Today’s Outline\n\nOffice Hours\nAssignment Reminders\nExcel data cleaning tutorial\nPower Query tutorial\nWorktime"
   },
   {
     "objectID": "week4.html#office-hours",
@@ -221,13 +221,20 @@
     "href": "week4.html#excel-data-cleaning-tutorial",
     "title": "DATA 201 Week 4: Data cleaning",
     "section": "Excel data cleaning tutorial",
-    "text": "Excel data cleaning tutorial"
+    "text": "Excel data cleaning tutorial\n\nDownload fake superhero dataset  here"
   },
   {
     "objectID": "week4.html#power-query-tutorial",
     "href": "week4.html#power-query-tutorial",
     "title": "DATA 201 Week 4: Data cleaning",
     "section": "Power Query tutorial",
-    "text": "Power Query tutorial\n\nPower Query in excel\nWorktime: Week 2 &gt; Friday &gt; Learning Resources &gt; Health System for G7 Countries Raw Data If more than 40% of rows are empty, good to drop that column\nImputing data is subjective\n\nYou should be able to explain what data you are using to impute"
+    "text": "Power Query tutorial\n\nPower Query in excel\nFile: Week 2 &gt; Friday &gt; Learning Resources &gt; Health System for G7 Countries Raw Data\nIf more than 40% of rows are empty, good to drop that column\nImputing data is subjective\n\nYou should be able to explain what data you are using to impute"
+  },
+  {
+    "objectID": "week4.html#worktime",
+    "href": "week4.html#worktime",
+    "title": "DATA 201 Week 4: Data cleaning",
+    "section": "Worktime",
+    "text": "Worktime\n\nGet started with an Assignment 3 dataset, which can be found in D2L"
   }
 ]

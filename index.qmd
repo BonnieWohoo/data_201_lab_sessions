@@ -13,3 +13,5 @@ format:
 [Week 2 Lab Slides](./week_2_slides.qmd) 
 
 [Week 3 Lab Slides](./week3_session1.qmd)
+
+[Week 4 Lab Slides](./week4.qmd)
