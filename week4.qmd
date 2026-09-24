@@ -39,3 +39,8 @@ format:
 
 ## Worktime
 - Get started with an Assignment 3 dataset, which can be found in D2L
+
+## Sep 23 Outline
+- Power Query Tutorial
+- Go over assignment 3
+- Worktime

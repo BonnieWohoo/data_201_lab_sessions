@@ -189,11 +189,18 @@
     "text": "Group Project Part 1 Presentations\n\nGoing to give everyone around 5 minutes to prep\nOrder is counter-clockwise starting from the left front"
   },
   {
-    "objectID": "index.html#links",
-    "href": "index.html#links",
+    "objectID": "index.html#office-hours",
+    "href": "index.html#office-hours",
     "title": "DATA 201 Lab Sessions",
-    "section": "Links",
-    "text": "Links\nWeek 2 Lab Slides\nWeek 3 Lab Slides\nWeek 4 Lab Slides"
+    "section": "Office Hours",
+    "text": "Office Hours\nOver zoom on Thursday from 1-2pm. https://ucalgary.zoom.us/j/97598136593\nMeeting ID: 975 9813 6593 Passcode: 325942"
+  },
+  {
+    "objectID": "index.html#slides",
+    "href": "index.html#slides",
+    "title": "DATA 201 Lab Sessions",
+    "section": "Slides",
+    "text": "Slides\nWeek 2 Lab Slides\nWeek 3 Lab Slides\nWeek 4 Lab Slides"
   },
   {
     "objectID": "week4.html#todays-outline",
@@ -236,5 +243,12 @@
     "title": "DATA 201 Week 4: Data cleaning",
     "section": "Worktime",
     "text": "Worktime\n\nGet started with an Assignment 3 dataset, which can be found in D2L"
+  },
+  {
+    "objectID": "week4.html#sep-23-outline",
+    "href": "week4.html#sep-23-outline",
+    "title": "DATA 201 Week 4: Data cleaning",
+    "section": "Sep 23 Outline",
+    "text": "Sep 23 Outline\n\nPower Query Tutorial\nGo over assignment 3\nWorktime"
   }
 ]
