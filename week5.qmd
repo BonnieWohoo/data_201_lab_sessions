@@ -21,11 +21,14 @@ format:
 - Data story [Exploring Anime and its Popularity](https://bejewled-tiara-219.notion.site/Exploring-Anime-and-its-Popularity-e79d271de1ba472bb1698190aca907dd)
 - No school on Wednesday, September 30th, 2026
 - Will go over Excel Vizualization next week
+- Submissions over email will not be accepted
+  - unless you have special circumstance
 
 
 ## Tableau tutorial
 - [Link to Tableau](https://public.tableau.com/app/discover)
 - [Inside Airbnb](https://insideairbnb.com/get-the-data/)
+- listings_vancouver here <a href="./listings_vancouver.csv" download>
 
 ## Assignment 4
 - Let's look at the specs!
