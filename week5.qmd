@@ -27,7 +27,7 @@ format:
 ## Tableau tutorial
 - [Link to Tableau](https://public.tableau.com/app/discover)
 - [Inside Airbnb](https://insideairbnb.com/get-the-data/)
-- listings_vancouver here <a href="./listings_vancouver.csv" download></a> 
+- listings_vancouver <a href="./listings_vancouver.csv" download>here</a> 
 
 ## Assignment 4
 - Let's look at the specs!
