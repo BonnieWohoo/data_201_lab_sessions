@@ -1,5 +1,5 @@
 ---
-title: "DATA 201 Week 4: Data cleaning"
+title: "DATA 201 Week 5: Data visualization with Tableau"
 author: "Bonnie Wu"
 format: 
   revealjs:
