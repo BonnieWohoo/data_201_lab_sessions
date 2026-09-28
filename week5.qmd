@@ -32,3 +32,7 @@ format:
 
 ## Group feedback
 - I will be giving feedback on your project topic!
+- While you're waiting: create an interesting visualization and tell someone else the following
+  - why you chose that chart
+  - what the main finding is
+- Partners: comment on something that you liked and something that could be improved on
