@@ -24,11 +24,10 @@ format:
 - Submissions over email will not be accepted
   - unless you have special circumstance
 
-
 ## Tableau tutorial
 - [Link to Tableau](https://public.tableau.com/app/discover)
 - [Inside Airbnb](https://insideairbnb.com/get-the-data/)
-- listings_vancouver here <a href="./listings_vancouver.csv" download>
+- listings_vancouver here <a href="./listings_vancouver.csv" download></a> 
 
 ## Assignment 4
 - Let's look at the specs!
