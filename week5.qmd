@@ -1,0 +1,34 @@
+---
+title: "DATA 201 Week 4: Data cleaning"
+author: "Bonnie Wu"
+format: 
+  revealjs:
+    theme: default
+    slide-number: true
+    chalkboard: true
+    transition: slide
+    background-transition: fade
+    incremental: true
+---
+
+## Today's Outline
+- Announcements
+- Tableau tutorial
+- Assignment 4
+- Group feedback
+
+## Announcements
+- Data story [Exploring Anime and its Popularity](https://bejewled-tiara-219.notion.site/Exploring-Anime-and-its-Popularity-e79d271de1ba472bb1698190aca907dd)
+- No school on Wednesday, September 30th, 2026
+- Will go over Excel Vizualization next week
+
+
+## Tableau tutorial
+- [Link to Tableau](https://public.tableau.com/app/discover)
+- [Inside Airbnb](https://insideairbnb.com/get-the-data/)
+
+## Assignment 4
+- Let's look at the specs!
+
+## Group feedback
+- I will be giving feedback on your project topic!
