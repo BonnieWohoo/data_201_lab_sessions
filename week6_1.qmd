@@ -29,6 +29,7 @@ format:
 
 ## What's wrong with this?
 ![](https://i.redd.it/htfmkyxpg8sh1.png)
+[Link to the BBC article](https://www.bbc.com/sport/football/articles/cmn45n5d8wq7o)
 
 ## What's wrong with this?
 ![](https://i.imgur.com/MAHyDqz.png)
@@ -43,11 +44,17 @@ format:
 ```{=html}
 <iframe width = "100%" height = "100%" style="overflow:auto" src="https://www.edwardtufte.com/notebook/chartjunk/"></iframe>
 ```
+[Link to Chartjunk](https://www.edwardtufte.com/notebook/chartjunk/)
+
 ## Interesting stuff: Spurious Correlations
 ```{=html}
 <iframe width = "100%" height = "100%" style="overflow:auto" src="https://tylervigen.com/"></iframe>
 ```
+[Link to Spurious Correlations](https://tylervigen.com/spurious-correlations)
+
 
 ## Activity
-- Using any dataset on the D2L, make a MISLEADING/BAD chart using Tableau or Excel
-    - When you're finished, show your partner(s) and try to guess what is misleading
+- Using any dataset on the D2L, make a MISLEADING/BAD visualization using Tableau or Excel
+- OR
+- Find a misleading/bad visualization
+    - When you're done, discuss with your group on what's good and/or bad about the visualization
