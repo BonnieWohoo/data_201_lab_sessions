@@ -84,67 +84,39 @@
     "text": "Random, but maybe cool things?\nPudding.cool has many data stories\nFilm Dialogue from 2,000 screenplays, Broken Down by Gender and Age\nEthical NBA champions\n30 minutes with a stranger"
   },
   {
-    "objectID": "week4.html#todays-outline",
-    "href": "week4.html#todays-outline",
-    "title": "DATA 201 Week 4: Data cleaning",
+    "objectID": "week5.html#todays-outline",
+    "href": "week5.html#todays-outline",
+    "title": "DATA 201 Week 5: Data visualization with Tableau",
     "section": "Today’s Outline",
-    "text": "Today’s Outline\n\nOffice Hours\nAssignment Reminders\nExcel data cleaning tutorial\nPower Query tutorial\nWorktime"
+    "text": "Today’s Outline\n\nAnnouncements\nTableau tutorial\nAssignment 4\nGroup feedback"
   },
   {
-    "objectID": "week4.html#office-hours",
-    "href": "week4.html#office-hours",
-    "title": "DATA 201 Week 4: Data cleaning",
-    "section": "Office Hours",
-    "text": "Office Hours\n\nChanging office hours to Thursday 1-2pm"
+    "objectID": "week5.html#announcements",
+    "href": "week5.html#announcements",
+    "title": "DATA 201 Week 5: Data visualization with Tableau",
+    "section": "Announcements",
+    "text": "Announcements\n\nData story Exploring Anime and its Popularity\nNo school on Wednesday, September 30th, 2026\nWill go over Excel Vizualization next week\nSubmissions over email will not be accepted\n\nunless you have special circumstance"
   },
   {
-    "objectID": "week4.html#assignment-reminders",
-    "href": "week4.html#assignment-reminders",
-    "title": "DATA 201 Week 4: Data cleaning",
-    "section": "Assignment Reminders",
-    "text": "Assignment Reminders\n\nDouble check submission format - e.g. Single PDF\nCite your references\nPortrait orientation\nAssignment 1 marks should be released soon"
+    "objectID": "week5.html#tableau-tutorial",
+    "href": "week5.html#tableau-tutorial",
+    "title": "DATA 201 Week 5: Data visualization with Tableau",
+    "section": "Tableau tutorial",
+    "text": "Tableau tutorial\n\nLink to Tableau\nInside Airbnb\nlistings_vancouver here"
   },
   {
-    "objectID": "week4.html#excel-data-cleaning-tutorial",
-    "href": "week4.html#excel-data-cleaning-tutorial",
-    "title": "DATA 201 Week 4: Data cleaning",
-    "section": "Excel data cleaning tutorial",
-    "text": "Excel data cleaning tutorial\n\nDownload fake superhero dataset  here"
+    "objectID": "week5.html#assignment-4",
+    "href": "week5.html#assignment-4",
+    "title": "DATA 201 Week 5: Data visualization with Tableau",
+    "section": "Assignment 4",
+    "text": "Assignment 4\n\nLet’s look at the specs!"
   },
   {
-    "objectID": "week4.html#power-query-tutorial",
-    "href": "week4.html#power-query-tutorial",
-    "title": "DATA 201 Week 4: Data cleaning",
-    "section": "Power Query tutorial",
-    "text": "Power Query tutorial\n\nPower Query in excel\nFile: Week 2 &gt; Friday &gt; Learning Resources &gt; Health System for G7 Countries Raw Data\nIf more than 40% of rows are empty, good to drop that column\nImputing data is subjective\n\nYou should be able to explain what data you are using to impute"
-  },
-  {
-    "objectID": "week4.html#worktime",
-    "href": "week4.html#worktime",
-    "title": "DATA 201 Week 4: Data cleaning",
-    "section": "Worktime",
-    "text": "Worktime\n\nGet started with an Assignment 3 dataset, which can be found in D2L"
-  },
-  {
-    "objectID": "week4.html#sep-23-outline",
-    "href": "week4.html#sep-23-outline",
-    "title": "DATA 201 Week 4: Data cleaning",
-    "section": "Sep 23 Outline",
-    "text": "Sep 23 Outline\n\nPower Query Tutorial\nGo over assignment 3\nWorktime"
-  },
-  {
-    "objectID": "index.html#office-hours",
-    "href": "index.html#office-hours",
-    "title": "DATA 201 Lab Sessions",
-    "section": "Office Hours",
-    "text": "Office Hours\nOver zoom on Thursday from 1-2pm. https://ucalgary.zoom.us/j/97598136593\nMeeting ID: 975 9813 6593 Passcode: 325942"
-  },
-  {
-    "objectID": "index.html#slides",
-    "href": "index.html#slides",
-    "title": "DATA 201 Lab Sessions",
-    "section": "Slides",
-    "text": "Slides\nWeek 2 Lab Slides\nWeek 3 Lab Slides\nWeek 4 Lab Slides\nWeek 5 Lab Slides"
+    "objectID": "week5.html#group-feedback",
+    "href": "week5.html#group-feedback",
+    "title": "DATA 201 Week 5: Data visualization with Tableau",
+    "section": "Group feedback",
+    "text": "Group feedback\n\nI will be giving feedback on your project topic!\nWhile you’re waiting: create an interesting visualization and tell someone else the following\n\nwhy you chose that chart\nwhat the main finding is\n\nPartners: comment on something that you liked and something that could be improved on"
   },
   {
     "objectID": "week3_session1.html#todays-outline",
@@ -252,38 +224,143 @@
     "text": "Group Project Part 1 Presentations\n\nGoing to give everyone around 5 minutes to prep\nOrder is counter-clockwise starting from the left front"
   },
   {
-    "objectID": "week5.html#todays-outline",
-    "href": "week5.html#todays-outline",
-    "title": "DATA 201 Week 5: Data visualization with Tableau",
+    "objectID": "index.html#office-hours",
+    "href": "index.html#office-hours",
+    "title": "DATA 201 Lab Sessions",
+    "section": "Office Hours",
+    "text": "Office Hours\nOver zoom on Thursday from 1-2pm. https://ucalgary.zoom.us/j/97598136593\nMeeting ID: 975 9813 6593 Passcode: 325942"
+  },
+  {
+    "objectID": "index.html#slides",
+    "href": "index.html#slides",
+    "title": "DATA 201 Lab Sessions",
+    "section": "Slides",
+    "text": "Slides\nWeek 2 Lab Slides\nWeek 3 Lab Slides\nWeek 4 Lab Slides\nWeek 5 Lab Slides\nWeek 6 Monday Lab Slides"
+  },
+  {
+    "objectID": "week4.html#todays-outline",
+    "href": "week4.html#todays-outline",
+    "title": "DATA 201 Week 4: Data cleaning",
     "section": "Today’s Outline",
-    "text": "Today’s Outline\n\nAnnouncements\nTableau tutorial\nAssignment 4\nGroup feedback"
+    "text": "Today’s Outline\n\nOffice Hours\nAssignment Reminders\nExcel data cleaning tutorial\nPower Query tutorial\nWorktime"
   },
   {
-    "objectID": "week5.html#announcements",
-    "href": "week5.html#announcements",
-    "title": "DATA 201 Week 5: Data visualization with Tableau",
+    "objectID": "week4.html#office-hours",
+    "href": "week4.html#office-hours",
+    "title": "DATA 201 Week 4: Data cleaning",
+    "section": "Office Hours",
+    "text": "Office Hours\n\nChanging office hours to Thursday 1-2pm"
+  },
+  {
+    "objectID": "week4.html#assignment-reminders",
+    "href": "week4.html#assignment-reminders",
+    "title": "DATA 201 Week 4: Data cleaning",
+    "section": "Assignment Reminders",
+    "text": "Assignment Reminders\n\nDouble check submission format - e.g. Single PDF\nCite your references\nPortrait orientation\nAssignment 1 marks should be released soon"
+  },
+  {
+    "objectID": "week4.html#excel-data-cleaning-tutorial",
+    "href": "week4.html#excel-data-cleaning-tutorial",
+    "title": "DATA 201 Week 4: Data cleaning",
+    "section": "Excel data cleaning tutorial",
+    "text": "Excel data cleaning tutorial\n\nDownload fake superhero dataset  here"
+  },
+  {
+    "objectID": "week4.html#power-query-tutorial",
+    "href": "week4.html#power-query-tutorial",
+    "title": "DATA 201 Week 4: Data cleaning",
+    "section": "Power Query tutorial",
+    "text": "Power Query tutorial\n\nPower Query in excel\nFile: Week 2 &gt; Friday &gt; Learning Resources &gt; Health System for G7 Countries Raw Data\nIf more than 40% of rows are empty, good to drop that column\nImputing data is subjective\n\nYou should be able to explain what data you are using to impute"
+  },
+  {
+    "objectID": "week4.html#worktime",
+    "href": "week4.html#worktime",
+    "title": "DATA 201 Week 4: Data cleaning",
+    "section": "Worktime",
+    "text": "Worktime\n\nGet started with an Assignment 3 dataset, which can be found in D2L"
+  },
+  {
+    "objectID": "week4.html#sep-23-outline",
+    "href": "week4.html#sep-23-outline",
+    "title": "DATA 201 Week 4: Data cleaning",
+    "section": "Sep 23 Outline",
+    "text": "Sep 23 Outline\n\nPower Query Tutorial\nGo over assignment 3\nWorktime"
+  },
+  {
+    "objectID": "week6_1.html#announcements",
+    "href": "week6_1.html#announcements",
+    "title": "DATA 201 Week 6: Excel Visualization and critiquing visualizations",
     "section": "Announcements",
-    "text": "Announcements\n\nData story Exploring Anime and its Popularity\nNo school on Wednesday, September 30th, 2026\nWill go over Excel Vizualization next week\nSubmissions over email will not be accepted\n\nunless you have special circumstance"
+    "text": "Announcements\n\nAssignment 3 marking\n\nPlease make sure I have access"
   },
   {
-    "objectID": "week5.html#tableau-tutorial",
-    "href": "week5.html#tableau-tutorial",
-    "title": "DATA 201 Week 5: Data visualization with Tableau",
-    "section": "Tableau tutorial",
-    "text": "Tableau tutorial\n\nLink to Tableau\nInside Airbnb\nlistings_vancouver here"
+    "objectID": "week6_1.html#todays-outline",
+    "href": "week6_1.html#todays-outline",
+    "title": "DATA 201 Week 6: Excel Visualization and critiquing visualizations",
+    "section": "Today’s Outline",
+    "text": "Today’s Outline\n\nAssignment 3\nExcel Visualization\nVisualization Critiquing\n\nActivity"
   },
   {
-    "objectID": "week5.html#assignment-4",
-    "href": "week5.html#assignment-4",
-    "title": "DATA 201 Week 5: Data visualization with Tableau",
-    "section": "Assignment 4",
-    "text": "Assignment 4\n\nLet’s look at the specs!"
+    "objectID": "week6_1.html#excel-visualization",
+    "href": "week6_1.html#excel-visualization",
+    "title": "DATA 201 Week 6: Excel Visualization and critiquing visualizations",
+    "section": "Excel Visualization",
+    "text": "Excel Visualization\n\nDownload sample Employee dataset  here"
   },
   {
-    "objectID": "week5.html#group-feedback",
-    "href": "week5.html#group-feedback",
-    "title": "DATA 201 Week 5: Data visualization with Tableau",
-    "section": "Group feedback",
-    "text": "Group feedback\n\nI will be giving feedback on your project topic!\nWhile you’re waiting: create an interesting visualization and tell someone else the following\n\nwhy you chose that chart\nwhat the main finding is\n\nPartners: comment on something that you liked and something that could be improved on"
+    "objectID": "week6_1.html#whats-wrong-with-this",
+    "href": "week6_1.html#whats-wrong-with-this",
+    "title": "DATA 201 Week 6: Excel Visualization and critiquing visualizations",
+    "section": "What’s wrong with this?",
+    "text": "What’s wrong with this?"
+  },
+  {
+    "objectID": "week6_1.html#whats-wrong-with-this-1",
+    "href": "week6_1.html#whats-wrong-with-this-1",
+    "title": "DATA 201 Week 6: Excel Visualization and critiquing visualizations",
+    "section": "What’s wrong with this?",
+    "text": "What’s wrong with this?"
+  },
+  {
+    "objectID": "week6_1.html#whats-wrong-with-this-2",
+    "href": "week6_1.html#whats-wrong-with-this-2",
+    "title": "DATA 201 Week 6: Excel Visualization and critiquing visualizations",
+    "section": "What’s wrong with this?",
+    "text": "What’s wrong with this?"
+  },
+  {
+    "objectID": "week6_1.html#whats-wrong-with-this-3",
+    "href": "week6_1.html#whats-wrong-with-this-3",
+    "title": "DATA 201 Week 6: Excel Visualization and critiquing visualizations",
+    "section": "What’s wrong with this?",
+    "text": "What’s wrong with this?"
+  },
+  {
+    "objectID": "week6_1.html#whats-wrong-with-this-4",
+    "href": "week6_1.html#whats-wrong-with-this-4",
+    "title": "DATA 201 Week 6: Excel Visualization and critiquing visualizations",
+    "section": "What’s wrong with this?",
+    "text": "What’s wrong with this?"
+  },
+  {
+    "objectID": "week6_1.html#interesting-stuff-chartjunk",
+    "href": "week6_1.html#interesting-stuff-chartjunk",
+    "title": "DATA 201 Week 6: Excel Visualization and critiquing visualizations",
+    "section": "Interesting stuff: Chartjunk",
+    "text": "Interesting stuff: Chartjunk"
+  },
+  {
+    "objectID": "week6_1.html#interesting-stuff-spurious-correlations",
+    "href": "week6_1.html#interesting-stuff-spurious-correlations",
+    "title": "DATA 201 Week 6: Excel Visualization and critiquing visualizations",
+    "section": "Interesting stuff: Spurious Correlations",
+    "text": "Interesting stuff: Spurious Correlations"
+  },
+  {
+    "objectID": "week6_1.html#activity",
+    "href": "week6_1.html#activity",
+    "title": "DATA 201 Week 6: Excel Visualization and critiquing visualizations",
+    "section": "Activity",
+    "text": "Activity\n\nUsing any dataset on the D2L, make a MISLEADING/BAD chart using Tableau or Excel\n\nWhen you’re finished, show your partner(s) and try to guess what is misleading"
   }
 ]

@@ -1,0 +1,53 @@
+---
+title: "DATA 201 Week 6: Excel Visualization and critiquing visualizations"
+author: "Bonnie Wu"
+format: 
+  revealjs:
+    theme: default
+    slide-number: true
+    chalkboard: true
+    transition: slide
+    background-transition: fade
+    incremental: true
+---
+
+## Announcements
+- Assignment 3 marking
+    - Please make sure I have access
+
+## Today's Outline
+- Assignment 3
+- Excel Visualization
+- Visualization Critiquing
+    - Activity
+
+## Excel Visualization
+- Download sample Employee dataset <a href="Employee Dataset.xlsx" download> here </a>
+
+## What's wrong with this?
+![](https://i.redd.it/udjvuuxfkath1.jpeg)
+
+## What's wrong with this?
+![](https://i.redd.it/htfmkyxpg8sh1.png)
+
+## What's wrong with this?
+![](https://i.imgur.com/MAHyDqz.png)
+
+## What's wrong with this?
+![](https://www.edwardtufte.com/wp-content/uploads/bboard/images/00040Z-22242-VDQIp113.jpg)
+
+## What's wrong with this?
+![](https://www.edwardtufte.com/wp-content/uploads/bboard/images/00040Z-22263-VDQIp118.jpg)
+
+## Interesting stuff: Chartjunk
+```{=html}
+<iframe width = "100%" height = "100%" style="overflow:auto" src="https://www.edwardtufte.com/notebook/chartjunk/"></iframe>
+```
+## Interesting stuff: Spurious Correlations
+```{=html}
+<iframe width = "100%" height = "100%" style="overflow:auto" src="https://tylervigen.com/"></iframe>
+```
+
+## Activity
+- Using any dataset on the D2L, make a MISLEADING/BAD chart using Tableau or Excel
+    - When you're finished, show your partner(s) and try to guess what is misleading
