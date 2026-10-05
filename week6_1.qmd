@@ -11,15 +11,17 @@ format:
     incremental: true
 ---
 
-## Announcements
-- Assignment 3 marking
-    - Please make sure I have access
-
 ## Today's Outline
-- Assignment 3
+- Announcements
 - Excel Visualization
 - Visualization Critiquing
     - Activity
+
+## Announcements
+- Assignment 3 marking
+    - Please make sure I have access
+- Team leader
+    - Please tell me by the end of this week
 
 ## Excel Visualization
 - Download sample Employee dataset <a href="Employee Dataset.xlsx" download> here </a>
@@ -27,8 +29,10 @@ format:
 ## What's wrong with this?
 ![](https://i.redd.it/udjvuuxfkath1.jpeg)
 
-## What's wrong with this?
+## What's wrong with this? {.smaller}
 ![](https://i.redd.it/htfmkyxpg8sh1.png)
+
+## BBC Article
 [Link to the BBC article](https://www.bbc.com/sport/football/articles/cmn45n5d8wq7o)
 
 ## What's wrong with this?

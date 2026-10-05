@@ -287,18 +287,18 @@
     "text": "Sep 23 Outline\n\nPower Query Tutorial\nGo over assignment 3\nWorktime"
   },
   {
-    "objectID": "week6_1.html#announcements",
-    "href": "week6_1.html#announcements",
-    "title": "DATA 201 Week 6: Excel Visualization and critiquing visualizations",
-    "section": "Announcements",
-    "text": "Announcements\n\nAssignment 3 marking\n\nPlease make sure I have access"
-  },
-  {
     "objectID": "week6_1.html#todays-outline",
     "href": "week6_1.html#todays-outline",
     "title": "DATA 201 Week 6: Excel Visualization and critiquing visualizations",
     "section": "Today’s Outline",
-    "text": "Today’s Outline\n\nAssignment 3\nExcel Visualization\nVisualization Critiquing\n\nActivity"
+    "text": "Today’s Outline\n\nAnnouncements\nExcel Visualization\nVisualization Critiquing\n\nActivity"
+  },
+  {
+    "objectID": "week6_1.html#announcements",
+    "href": "week6_1.html#announcements",
+    "title": "DATA 201 Week 6: Excel Visualization and critiquing visualizations",
+    "section": "Announcements",
+    "text": "Announcements\n\nAssignment 3 marking\n\nPlease make sure I have access\n\nTeam leader\n\nPlease tell me by the end of this week"
   },
   {
     "objectID": "week6_1.html#excel-visualization",
@@ -319,7 +319,7 @@
     "href": "week6_1.html#whats-wrong-with-this-1",
     "title": "DATA 201 Week 6: Excel Visualization and critiquing visualizations",
     "section": "What’s wrong with this?",
-    "text": "What’s wrong with this?\n Link to the BBC article"
+    "text": "What’s wrong with this?"
   },
   {
     "objectID": "week6_1.html#whats-wrong-with-this-2",
@@ -362,5 +362,12 @@
     "title": "DATA 201 Week 6: Excel Visualization and critiquing visualizations",
     "section": "Activity",
     "text": "Activity\n\nUsing any dataset on the D2L, make a MISLEADING/BAD visualization using Tableau or Excel\nOR\nFind a misleading/bad visualization\n\nWhen you’re done, discuss with your group on what’s good and/or bad about the visualization"
+  },
+  {
+    "objectID": "week6_1.html#bbc-article",
+    "href": "week6_1.html#bbc-article",
+    "title": "DATA 201 Week 6: Excel Visualization and critiquing visualizations",
+    "section": "BBC Article",
+    "text": "BBC Article\nLink to the BBC article"
   }
 ]
