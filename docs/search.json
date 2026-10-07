@@ -235,7 +235,7 @@
     "href": "index.html#slides",
     "title": "DATA 201 Lab Sessions",
     "section": "Slides",
-    "text": "Slides\nWeek 2 Lab Slides\nWeek 3 Lab Slides\nWeek 4 Lab Slides\nWeek 5 Lab Slides\nWeek 6 Monday Lab Slides"
+    "text": "Slides\nWeek 2 Lab Slides\nWeek 3 Lab Slides\nWeek 4 Lab Slides\nWeek 5 Lab Slides\nWeek 6 Monday Lab Slides\nWeek 6 Wednesday Lab Slides"
   },
   {
     "objectID": "week4.html#todays-outline",
@@ -369,5 +369,96 @@
     "title": "DATA 201 Week 6: Excel Visualization and critiquing visualizations",
     "section": "BBC Article",
     "text": "BBC Article\nLink to the BBC article"
+  },
+  {
+    "objectID": "week6_2.html#todays-outline",
+    "href": "week6_2.html#todays-outline",
+    "title": "DATA 201 Week 6: Data-Ink Ratio and other design choices",
+    "section": "Today’s Outline",
+    "text": "Today’s Outline\n\nAnnouncements\nData Ink Ratio and other design choices\nAssignment 5"
+  },
+  {
+    "objectID": "week6_2.html#announcements",
+    "href": "week6_2.html#announcements",
+    "title": "DATA 201 Week 6: Data-Ink Ratio and other design choices",
+    "section": "Announcements",
+    "text": "Announcements\n\nLast day to resubmit a link for your assignment 3!\nTeam leader\n\nIf you have not assigned one, please tell me by the end of the week"
+  },
+  {
+    "objectID": "week6_2.html#assignment",
+    "href": "week6_2.html#assignment",
+    "title": "DATA 201 Week 6: Data-Ink Ratio and other design choices",
+    "section": "Assignment",
+    "text": "Assignment\n\nDeadline:"
+  },
+  {
+    "objectID": "week6_2.html#data-ink-ratio",
+    "href": "week6_2.html#data-ink-ratio",
+    "title": "DATA 201 Week 6: Data-Ink Ratio and other design choices",
+    "section": "Data-Ink Ratio",
+    "text": "Data-Ink Ratio\n\nConcept introduced by Edward Tufte\nIn a graphic, large portion of the ink should present data-information\nData ink = bars, lines, dots (actual data)\nNon-data ink = borders, gridlines, backgrounds, decorative elements\nCriticisms on minimalism: Paper\n\nThe idea here is that data should be used thoughtfully"
+  },
+  {
+    "objectID": "week6_2.html#cognitive-load",
+    "href": "week6_2.html#cognitive-load",
+    "title": "DATA 201 Week 6: Data-Ink Ratio and other design choices",
+    "section": "Cognitive Load",
+    "text": "Cognitive Load"
+  },
+  {
+    "objectID": "week6_2.html#some-examples",
+    "href": "week6_2.html#some-examples",
+    "title": "DATA 201 Week 6: Data-Ink Ratio and other design choices",
+    "section": "Some examples",
+    "text": "Some examples\nFrom Observable D3’s Example Gallery\nCalendar Example\nDiverging Stacked Bar Chart\nInequality in American cities\nBubble chart"
+  },
+  {
+    "objectID": "week6_2.html#data-ink-ratio-formula",
+    "href": "week6_2.html#data-ink-ratio-formula",
+    "title": "DATA 201 Week 6: Data-Ink Ratio and other design choices",
+    "section": "Data-Ink Ratio Formula",
+    "text": "Data-Ink Ratio Formula"
+  },
+  {
+    "objectID": "week6_2.html#data-ink",
+    "href": "week6_2.html#data-ink",
+    "title": "DATA 201 Week 6: Data-Ink Ratio and other design choices",
+    "section": "Data-Ink",
+    "text": "Data-Ink"
+  },
+  {
+    "objectID": "week6_2.html#data-ink-activity",
+    "href": "week6_2.html#data-ink-activity",
+    "title": "DATA 201 Week 6: Data-Ink Ratio and other design choices",
+    "section": "Data-Ink Activity",
+    "text": "Data-Ink Activity"
+  },
+  {
+    "objectID": "week6_2.html#data-ink-activity-1",
+    "href": "week6_2.html#data-ink-activity-1",
+    "title": "DATA 201 Week 6: Data-Ink Ratio and other design choices",
+    "section": "Data-Ink Activity",
+    "text": "Data-Ink Activity"
+  },
+  {
+    "objectID": "week6_2.html#some-more-examples",
+    "href": "week6_2.html#some-more-examples",
+    "title": "DATA 201 Week 6: Data-Ink Ratio and other design choices",
+    "section": "Some more examples",
+    "text": "Some more examples\nFrom Observable D3’s Example Gallery\nCalendar Example\nDiverging Stacked Bar Chart\nInequality in American cities\nBubble chart"
+  },
+  {
+    "objectID": "week6_2.html#assignment-5",
+    "href": "week6_2.html#assignment-5",
+    "title": "DATA 201 Week 6: Data-Ink Ratio and other design choices",
+    "section": "Assignment 5",
+    "text": "Assignment 5\n\nDeadline: October 5th @ 11:59PM\nSubmission format: PDF"
+  },
+  {
+    "objectID": "week6_2.html#resources",
+    "href": "week6_2.html#resources",
+    "title": "DATA 201 Week 6: Data-Ink Ratio and other design choices",
+    "section": "Resources",
+    "text": "Resources\nTamara Munzer - Marks and Channels: Ch 5 - Color: Ch 10"
   }
 ]

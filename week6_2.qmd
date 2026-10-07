@@ -1,0 +1,64 @@
+---
+title: "DATA 201 Week 6: Data-Ink Ratio and other design choices"
+author: "Bonnie Wu"
+format: 
+  revealjs:
+    theme: default
+    slide-number: true
+    chalkboard: true
+    transition: slide
+    background-transition: fade
+    incremental: true
+---
+
+## Today's Outline
+- Announcements
+- Data Ink Ratio and other design choices
+- Assignment 5
+
+## Announcements
+- Last day to resubmit a link for your assignment 3!
+- Team leader
+    - If you have not assigned one, please tell me by the end of the week
+
+## Data-Ink Ratio
+- Concept introduced by Edward Tufte
+- In a graphic, large portion of the ink should present data-information
+- Data ink = bars, lines, dots (actual data)
+- Non-data ink = borders, gridlines, backgrounds,
+decorative elements
+- Criticisms on minimalism: [Paper](https://dl.acm.org/doi/10.1145/1362550.1362587)
+    - The idea here is that data should be used thoughtfully
+
+
+## Data-Ink Ratio Formula
+![](https://infovis-wiki.net/w/images/5/55/DIR.jpg)
+
+## Data-Ink Activity
+```{=html}
+<img width = "100%" src="https://deliveringdataanalytics.com/wp-content/uploads/2022/11/Toggle-Artboard-1-100-1024x576.jpg"/>
+```
+## Data-Ink Activity
+```{=html}
+<img width = "100%" src="https://deliveringdataanalytics.com/wp-content/uploads/2022/11/Toggle-Artboard-15-100-1024x576.jpg"/>
+```
+
+## Some examples
+From Observable D3's Example Gallery
+
+[Calendar Example](https://observablehq.com/@d3/calendar/2)
+
+[Diverging Stacked Bar Chart](https://observablehq.com/@d3/diverging-stacked-bar-chart/2)
+
+[Inequality in American cities](https://observablehq.com/@d3/inequality-in-american-cities)
+
+[Bubble chart](https://observablehq.com/@d3/bubble-chart/2)
+
+## Resources
+[Tamara Munzer](https://www.cs.ubc.ca/~tmm/vadbook/)
+- [Marks and Channels: Ch 5](https://www.cs.ubc.ca/~tmm/talks/vad/2501-marksII.pdf)
+- [Color: Ch 10](https://www.cs.ubc.ca/~tmm/talks/vad/VAD-color.pdf)
+
+## Assignment 5
+- Deadline: October 5th @ 11:59PM
+- Submission format: PDF
