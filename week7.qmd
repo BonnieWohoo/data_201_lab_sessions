@@ -1,0 +1,32 @@
+---
+title: "DATA 201 Week 7: PowerBI"
+author: "Bonnie Wu"
+format: 
+  revealjs:
+    theme: default
+    slide-number: true
+    chalkboard: true
+    transition: slide
+    background-transition: fade
+    incremental: true
+---
+
+## Today's Outline
+- PowerBI Tutorial
+- Announcements
+
+## PowerBI
+- Importing data
+- Creating visualizations
+- Customizing visualizations
+- Interactive Components
+
+## PowerBI Collaboration
+
+## Announcements
+- Assignment 6 due **October 18th @ 11:59PM**
+    - Peer Feedback
+    - Use the dataset in the D2L
+- Group Project Part 2: Interim Presentation
+    - Next **Wednesday, October 21st**
+- Office hours: 11am TOMORROW ONLY
