@@ -84,6 +84,34 @@
     "text": "Random, but maybe cool things?\nPudding.cool has many data stories\nFilm Dialogue from 2,000 screenplays, Broken Down by Gender and Age\nEthical NBA champions\n30 minutes with a stranger"
   },
   {
+    "objectID": "week7.html#todays-outline",
+    "href": "week7.html#todays-outline",
+    "title": "DATA 201 Week 7: PowerBI",
+    "section": "Today’s Outline",
+    "text": "Today’s Outline\n\nPowerBI Tutorial\nAnnouncements"
+  },
+  {
+    "objectID": "week7.html#powerbi",
+    "href": "week7.html#powerbi",
+    "title": "DATA 201 Week 7: PowerBI",
+    "section": "PowerBI",
+    "text": "PowerBI\n\nImporting data\nCreating visualizations\nCustomizing visualizations\nInteractive Components"
+  },
+  {
+    "objectID": "week7.html#powerbi-collaboration",
+    "href": "week7.html#powerbi-collaboration",
+    "title": "DATA 201 Week 7: PowerBI",
+    "section": "PowerBI Collaboration",
+    "text": "PowerBI Collaboration"
+  },
+  {
+    "objectID": "week7.html#announcements",
+    "href": "week7.html#announcements",
+    "title": "DATA 201 Week 7: PowerBI",
+    "section": "Announcements",
+    "text": "Announcements\n\nAssignment 6 due October 18th @ 11:59PM\n\nPeer Feedback\nUse the dataset in the D2L\n\nGroup Project Part 2: Interim Presentation\n\nNext Wednesday, October 21st\n\nOffice hours: 11am TOMORROW ONLY"
+  },
+  {
     "objectID": "week6_1.html#todays-outline",
     "href": "week6_1.html#todays-outline",
     "title": "DATA 201 Week 6: Excel Visualization and critiquing visualizations",
@@ -228,7 +256,7 @@
     "href": "index.html#slides",
     "title": "DATA 201 Lab Sessions",
     "section": "Slides",
-    "text": "Slides\nWeek 2 Lab Slides\nWeek 3 Lab Slides\nWeek 4 Lab Slides\nWeek 5 Lab Slides\nWeek 6 Monday Lab Slides\nWeek 6 Wednesday Lab Slides"
+    "text": "Slides\nWeek 2 Lab Slides\nWeek 3 Lab Slides\nWeek 4 Lab Slides\nWeek 5 Lab Slides\nWeek 6 Monday Lab Slides\nWeek 6 Wednesday Lab Slides\nWeek 9 Lab Slides"
   },
   {
     "objectID": "week3_session1.html#todays-outline",
@@ -434,31 +462,381 @@
     "text": "Assignment 5\n\nDeadline: October 11th @ 11:59PM\nSubmission format: PDF"
   },
   {
-    "objectID": "week7.html#todays-outline",
-    "href": "week7.html#todays-outline",
-    "title": "DATA 201 Week 7: PowerBI",
+    "objectID": "week9.html#todays-outline",
+    "href": "week9.html#todays-outline",
+    "title": "DATA 201 Week 9: Quantitative Analysis",
     "section": "Today’s Outline",
-    "text": "Today’s Outline\n\nPowerBI Tutorial\nAnnouncements"
+    "text": "Today’s Outline\n\nCorrelation and Regression review\nAnnouncements\nQuick Poll\nWork time"
   },
   {
-    "objectID": "week7.html#powerbi",
-    "href": "week7.html#powerbi",
-    "title": "DATA 201 Week 7: PowerBI",
-    "section": "PowerBI",
-    "text": "PowerBI\n\nImporting data\nCreating visualizations\nCustomizing visualizations\nInteractive Components"
+    "objectID": "week9.html#correlation-and-regression-review",
+    "href": "week9.html#correlation-and-regression-review",
+    "title": "DATA 201 Week 9: Quantitative Analysis",
+    "section": "Correlation and Regression Review",
+    "text": "Correlation and Regression Review\n Advertising dataset \n\nTV: advertising dollars spent on TV for a single product in a given market (in thousands of dollars)\nRadio: advertising dollars spent on Radio\nNewspaper: advertising dollars spent on Newspaper\nSales: sales of a single product in a given market (in thousands of units)"
   },
   {
-    "objectID": "week7.html#announcements",
-    "href": "week7.html#announcements",
-    "title": "DATA 201 Week 7: PowerBI",
+    "objectID": "week9.html#why-use-scatterplot-matrices",
+    "href": "week9.html#why-use-scatterplot-matrices",
+    "title": "DATA 201 Week 9: Quantitative Analysis",
+    "section": "Why use scatterplot matrices",
+    "text": "Why use scatterplot matrices\n\nQuick glance at correlation, trends, and outliers"
+  },
+  {
+    "objectID": "week9.html#advertising-dataset",
+    "href": "week9.html#advertising-dataset",
+    "title": "DATA 201 Week 8: Quantitative Analysis",
+    "section": "Advertising Dataset",
+    "text": "Advertising Dataset"
+  },
+  {
+    "objectID": "week9.html#how-to-create-it-in",
+    "href": "week9.html#how-to-create-it-in",
+    "title": "DATA 201 Week 9: Quantitative Analysis",
+    "section": "How to create it in",
+    "text": "How to create it in\n\nPowerBI\nTableau"
+  },
+  {
+    "objectID": "week9.html#example",
+    "href": "week9.html#example",
+    "title": "DATA 201 Week 9: Quantitative Analysis",
+    "section": "Example",
+    "text": "Example"
+  },
+  {
+    "objectID": "week9.html#correlation-coefficient",
+    "href": "week9.html#correlation-coefficient",
+    "title": "DATA 201 Week 9: Quantitative Analysis",
+    "section": "Correlation Coefficient",
+    "text": "Correlation Coefficient\n\nAll the data points get represented as a single value\nPearson’s r measures the strength and direction of a linear relationship\nRanges from -1 to +1\n\n+1: perfect positive (as X goes up, Y goes up)\n0: no linear relationship\n-1: perfect negative (as X goes up, Y goes down)\n\nRough guide: |r| &lt; 0.3 weak, 0.3 to 0.7 moderate, &gt; 0.7 strong\nLet’s do it in Excel!\n\n\nExplain correlation first: one number summarizing how tightly the points hug a line. Remind them correlation is not causation, and that r only captures linear patterns (a perfect U-shape can have r near 0). Negative means that as x feature goes up, then the y value decreases"
+  },
+  {
+    "objectID": "week9.html#some-resources",
+    "href": "week9.html#some-resources",
+    "title": "DATA 201 Week 9: Quantitative Analysis",
+    "section": "Some resources:",
+    "text": "Some resources:\nSimple Distribution YouTube Video\nYouTube Crash Course Regression"
+  },
+  {
+    "objectID": "week9.html#announcements",
+    "href": "week9.html#announcements",
+    "title": "DATA 201 Week 9: Quantitative Analysis",
     "section": "Announcements",
-    "text": "Announcements\n\nAssignment 6 due October 18th @ 11:59PM\n\nPeer Feedback\nUse the dataset in the D2L\n\nGroup Project Part 2: Interim Presentation\n\nNext Wednesday, October 21st\n\nOffice hours: 11am TOMORROW ONLY"
+    "text": "Announcements\n\nAssignment 8: Group focused\nQuick Poll re Wednesday:\nlivepoll.io/join\n\nCode: A8Q8HE"
   },
   {
-    "objectID": "week7.html#powerbi-collaboration",
-    "href": "week7.html#powerbi-collaboration",
-    "title": "DATA 201 Week 7: PowerBI",
-    "section": "PowerBI Collaboration",
-    "text": "PowerBI Collaboration"
+    "objectID": "week9.html#correlation-coefficient-1",
+    "href": "week9.html#correlation-coefficient-1",
+    "title": "DATA 201 Week 9: Quantitative Analysis",
+    "section": "Correlation Coefficient",
+    "text": "Correlation Coefficient\n\nAll the data points get represented as a single value\nPearson’s r measures the strength and direction of a linear relationship\nRanges from -1 to +1\n\n+1: perfect positive (as X goes up, Y goes up)\n0: no linear relationship\n-1: perfect negative (as X goes up, Y goes down)\n\nRough guide: |r| &lt; 0.3 weak, 0.3 to 0.7 moderate, &gt; 0.7 strong\nLet’s do it in Excel!\n\n\nExplain correlation first: one number summarizing how tightly the points hug a line. Remind them correlation is not causation, and that r only captures linear patterns (a perfect U-shape can have r near 0)."
+  },
+  {
+    "objectID": "week9.html#correlation-in-excel",
+    "href": "week9.html#correlation-in-excel",
+    "title": "DATA 201 Week 9: Quantitative Analysis",
+    "section": "Correlation in Excel",
+    "text": "Correlation in Excel\n\n=CORREL(array1, array2)\nExample: =CORREL(A2:A201, D2:D201) for TV vs Sales\nOr get every pair at once with the Analysis ToolPak:\n\nFile → Options → Add-ins\nManage: Excel Add-ins → Go…\nCheck Analysis ToolPak → OK\nData tab → Data Analysis → Correlation\nSelect the input range, tick “Labels in first row”, then OK\n\n\n\nLive demo. Show the single-pair CORREL formula first, then the ToolPak matrix."
+  },
+  {
+    "objectID": "week9.html#correlation-matrix-advertising-data",
+    "href": "week9.html#correlation-matrix-advertising-data",
+    "title": "DATA 201 Week 9: Quantitative Analysis",
+    "section": "Correlation Matrix: Advertising Data",
+    "text": "Correlation Matrix: Advertising Data\n\n\n\n\nTV\nRadio\nNewspaper\nSales\n\n\n\n\nTV\n1.00\n0.05\n0.06\n0.78\n\n\nRadio\n0.05\n1.00\n0.35\n0.58\n\n\nNewspaper\n0.06\n0.35\n1.00\n0.23\n\n\nSales\n0.78\n0.58\n0.23\n1.00\n\n\n\n\nTV has the strongest relationship with Sales\nNewspaper has only a weak relationship with Sales\nRadio and Newspaper are moderately correlated with each other"
+  },
+  {
+    "objectID": "week9.html#heatmap-for-correlation",
+    "href": "week9.html#heatmap-for-correlation",
+    "title": "DATA 201 Week 9: Quantitative Analysis",
+    "section": "Heatmap for Correlation",
+    "text": "Heatmap for Correlation\n\nA heatmap turns the matrix into colour so patterns pop out\nIn Excel: select the matrix → Home → Conditional Formatting → Color Scales\nDark = strong, light = weak\nLook for:\n\nStrong correlations with the target (Sales)\nStrong correlations between predictors (multicollinearity)\n\nPowerBI\n\n\nShow the heatmap after the numeric matrix so they can connect the colours to the values. Point out that Radio and Newspaper are correlated, which may matter later."
+  },
+  {
+    "objectID": "week9.html#from-correlation-to-regression",
+    "href": "week9.html#from-correlation-to-regression",
+    "title": "DATA 201 Week 9: Quantitative Analysis",
+    "section": "From Correlation to Regression",
+    "text": "From Correlation to Regression\n\nCorrelation: how strongly are two variables related?\nRegression: what is the relationship, and can we predict with it?\nSimple linear regression:\n\n\\[\\hat{y} = \\beta_0 + \\beta_1 x\\]\n\n\\(\\beta_0\\) is the intercept: predicted Sales when spend is 0\n\\(\\beta_1\\) is the slope: change in Sales for each additional unit of spend\nThe “best” line minimizes the sum of squared residuals (least squares)"
+  },
+  {
+    "objectID": "week9.html#residuals-what-the-line-gets-wrong",
+    "href": "week9.html#residuals-what-the-line-gets-wrong",
+    "title": "DATA 201 Week 9: Quantitative Analysis",
+    "section": "Residuals: What the Line Gets Wrong",
+    "text": "Residuals: What the Line Gets Wrong\n\nResidual = actual value − predicted value\n\n\\[e_i = y_i - \\hat{y}_i\\]\n\nPositive residual: the line under-predicted\nNegative residual: the line over-predicted\nLeast squares picks the line that makes this as small as possible:"
+  },
+  {
+    "objectID": "week9.html#regression-in-excel",
+    "href": "week9.html#regression-in-excel",
+    "title": "DATA 201 Week 9: Quantitative Analysis",
+    "section": "Regression in Excel",
+    "text": "Regression in Excel\n\nData tab → Data Analysis → Regression\nInput Y Range: Sales\nInput X Range: TV\nTick “Labels”, and optionally “Residuals” and “Line Fit Plots”\nOutput: Summary Output table with three sections:\n\nRegression Statistics: how well does the model fit?\nANOVA: is the model useful overall?\nCoefficients: what is the effect of each variable?\n\n\n\nLive demo. Then walk through each of the three sections on the next slides."
+  },
+  {
+    "objectID": "week9.html#section-1-regression-statistics",
+    "href": "week9.html#section-1-regression-statistics",
+    "title": "DATA 201 Week 9: Quantitative Analysis",
+    "section": "Section 1: Regression Statistics",
+    "text": "Section 1: Regression Statistics\n\n\n\nStatistic\nTV → Sales\n\n\n\n\nMultiple R\n0.782\n\n\nR Square\n0.612\n\n\nAdjusted R Square\n0.610\n\n\nStandard Error\n3.259\n\n\nObservations\n200\n\n\n\nQuestion answered: how well does the model fit the data?"
+  },
+  {
+    "objectID": "week9.html#multiple-r-and-r-square",
+    "href": "week9.html#multiple-r-and-r-square",
+    "title": "DATA 201 Week 9: Quantitative Analysis",
+    "section": "Multiple R and R Square",
+    "text": "Multiple R and R Square\n\nMultiple R = 0.782\n\nAbsolute value of the correlation between X and Y\nWith one predictor, it equals |r| from our matrix\n\nR Square (R²) = 0.612\n\n\\[R^2 = \\frac{SSR}{SST} = 1 - \\frac{SSE}{SST}\\]\n\nInterpretation: 61% of the variation in Sales is explained by TV spend\nThe other 39% comes from things not in the model (other media, season, market size, noise)\nRanges from 0 to 1; higher means a tighter fit\nA “good” R² depends on the field: 0.6 is strong in marketing, weak in physics\n\n\nCommon mistake: R² of 0.61 does not mean the predictions are 61% accurate. It means 61% of the variance is accounted for. Also, R² never decreases when you add variables, which is why adjusted R² exists."
+  },
+  {
+    "objectID": "week9.html#adjusted-r-square-and-standard-error",
+    "href": "week9.html#adjusted-r-square-and-standard-error",
+    "title": "DATA 201 Week 9: Quantitative Analysis",
+    "section": "Adjusted R Square and Standard Error",
+    "text": "Adjusted R Square and Standard Error\n\nAdjusted R Square = 0.610\n\nR² penalized for the number of predictors\nUse it to compare models with different numbers of variables\nIf it drops when you add a variable, that variable isn’t helping\n\nStandard Error (residual standard error) = 3.259\n\n\\[SE = \\sqrt{\\frac{SSE}{n-k-1}}\\]\n\nTypical size of a prediction error, in the units of Y\nHere: predictions are off by about 3.26 thousand widgets\nMean Sales is about 14.0, so that’s roughly a 23% error\nSmaller is better\n\n\nStandard error is often more useful than R² for judging practical accuracy, because it’s in real units. Roughly 95% of actual values fall within 2 standard errors of the prediction."
+  },
+  {
+    "objectID": "week9.html#section-2-anova",
+    "href": "week9.html#section-2-anova",
+    "title": "DATA 201 Week 9: Quantitative Analysis",
+    "section": "Section 2: ANOVA",
+    "text": "Section 2: ANOVA\n\n\n\n\ndf\nSS\nMS\nF\nSignificance F\n\n\n\n\nRegression\n1\n3314.6\n3314.6\n312.1\n&lt; 0.001\n\n\nResidual\n198\n2102.5\n10.6\n\n\n\n\nTotal\n199\n5417.1\n\n\n\n\n\n\nQuestion answered: is the model better than just guessing the average Sales every time?"
+  },
+  {
+    "objectID": "week9.html#interpreting-the-anova-table",
+    "href": "week9.html#interpreting-the-anova-table",
+    "title": "DATA 201 Week 9: Quantitative Analysis",
+    "section": "Interpreting the ANOVA Table",
+    "text": "Interpreting the ANOVA Table\n\ndf: degrees of freedom (regression = number of predictors; residual = n − k − 1)\nSS: the sums of squares from earlier (SSR, SSE, SST)\nMS: SS divided by df (average squared variation)\nF = MS Regression ÷ MS Residual = 312.1\n\nRatio of explained variation to unexplained variation\nLarge F: the model explains much more than chance would\n\nSignificance F = p-value for the F test\n\nNull hypothesis: all slope coefficients are 0 (the model is useless)\nBelow 0.05: reject it, so the model is statistically significant overall\n\nCheck: R² = 3314.6 ÷ 5417.1 = 0.612\n\n\nWith one predictor, the F test and the t test on the slope give the same answer (F = t²). The F test matters more in multiple regression, where it tests all predictors together."
+  },
+  {
+    "objectID": "week9.html#section-3-coefficients",
+    "href": "week9.html#section-3-coefficients",
+    "title": "DATA 201 Week 9: Quantitative Analysis",
+    "section": "Section 3: Coefficients",
+    "text": "Section 3: Coefficients\n\n\n\n\n\n\n\n\n\n\n\n\n\nCoefficients\nStandard Error\nt Stat\nP-value\nLower 95%\nUpper 95%\n\n\n\n\nIntercept\n2.939\n0.312\n9.42\n&lt; 0.001\n2.324\n3.554\n\n\nTV\n0.0458\n0.0014\n32.81\n&lt; 0.001\n0.0430\n0.0485\n\n\nRadio\n0.1885\n0.0086\n21.89\n&lt; 0.001\n0.1715\n0.2055\n\n\nNewspaper\n-0.0010\n0.0059\n-0.18\n0.860\n-0.0126\n0.0105"
+  },
+  {
+    "objectID": "week9.html#reading-the-coefficients-table",
+    "href": "week9.html#reading-the-coefficients-table",
+    "title": "DATA 201 Week 9: Quantitative Analysis",
+    "section": "Reading the Coefficients Table",
+    "text": "Reading the Coefficients Table\n\nCoefficient: the estimated effect\n\nIntercept 7.033: predicted Sales with $0 TV spend (about 7,033 widgets)\nTV 0.0475: each extra $1,000 on TV adds about 47.5 widgets\n\nStandard Error: how much the estimate would wobble across different samples\n\nSmall relative to the coefficient means a precise estimate\n\nt Stat = Coefficient ÷ Standard Error\n\nHow many standard errors the estimate is from 0\nRule of thumb: |t| &gt; 2 is significant\n\nP-value: probability of a t this extreme if the true coefficient were 0\n\nBelow 0.05: statistically significant\n\nLower / Upper 95%: range of plausible values for the true coefficient\n\nIf the interval excludes 0, the variable is significant\n\n\n\nWalk through TV row: 0.0475 / 0.0027 = 17.67. That is huge, so the p-value is essentially 0. The interval 0.042 to 0.053 says we are fairly sure each $1,000 adds between 42 and 53 widgets. Caution: the intercept is an extrapolation if no market in the data has zero TV spend."
+  },
+  {
+    "objectID": "week9.html#significance-vs.-importance",
+    "href": "week9.html#significance-vs.-importance",
+    "title": "DATA 201 Week 9: Quantitative Analysis",
+    "section": "Significance vs. Importance",
+    "text": "Significance vs. Importance\n\nStatistically significant: unlikely to be zero\nPractically important: big enough to matter in the real world\nTV and Radio are both: significant and sizable\nNewspaper is neither: the data show no added value\nA low p-value says nothing about causation\nPair it with the size of the coefficient and the context\n\n\nNewspaper’s “no effect” means no added value given TV and Radio are already in the model. It doesn’t prove newspaper ads never work. Newspaper looked related to Sales in the correlation matrix (r = 0.23) only because it correlates with Radio (r = 0.35). The key is whether the interval includes zero: - TV: Its interval is entirely positive, supporting a positive coefficient. - Radio: Its interval is entirely positive, also supporting a positive coefficient. - Newspaper: Its interval includes zero, meaning the true coefficient could be negative, zero, or positive under the model."
+  },
+  {
+    "objectID": "week9.html#interpreting-the-model",
+    "href": "week9.html#interpreting-the-model",
+    "title": "DATA 201 Week 9: Quantitative Analysis",
+    "section": "Interpreting the Model",
+    "text": "Interpreting the Model\n\nSales ≈ 7.03 + 0.048 × TV\nEach extra $1,000 on TV is associated with about 48 more widgets\nExample: TV = 100 → about 11.8 (11,800 widgets)\nTV alone explains about 61% of the variation in Sales\nPredictions are typically off by about 3,000 widgets\n\n\nStress R² vs p-value: R² says how much is explained, p-value says whether the effect is distinguishable from noise. The model is significant overall (Significance F &lt; 0.05) and so is the slope (p &lt; 0.05). Only predict within the range of the data, since extrapolation is risky. Units are thousands of dollars and thousands of widgets."
+  },
+  {
+    "objectID": "week9.html#checking-the-assumptions-with-residual-plots",
+    "href": "week9.html#checking-the-assumptions-with-residual-plots",
+    "title": "DATA 201 Week 9: Quantitative Analysis",
+    "section": "Checking the Assumptions with Residual Plots",
+    "text": "Checking the Assumptions with Residual Plots\n\nPlot residuals against predicted values (tick “Residuals” in Excel)\nWhat to look for:\n\nLinearity: no curve or pattern, just random scatter around 0\nConstant variance: the spread shouldn’t fan out or narrow\nIndependence: no trend over time or order\nNormality: residuals roughly bell-shaped\nOutliers: points far from the rest\n\nA pattern in the residuals means the straight-line model is missing something\n\n\nFor TV vs Sales, the residuals fan out slightly at higher spend, which hints that the relationship is not perfectly linear. This motivates adding more predictors."
+  },
+  {
+    "objectID": "week9.html#simple-vs.-multiple-regression",
+    "href": "week9.html#simple-vs.-multiple-regression",
+    "title": "DATA 201 Week 9: Quantitative Analysis",
+    "section": "Simple vs. Multiple Regression",
+    "text": "Simple vs. Multiple Regression\n\n\n\nStatistic\nTV only\nTV + Radio + Newspaper\n\n\n\n\nR Square\n0.612\n0.897\n\n\nAdjusted R Square\n0.610\n0.896\n\n\nStandard Error\n3.259\n1.686\n\n\nSignificance F\n&lt; 0.001\n&lt; 0.001\n\n\n\n\nAdding Radio cuts the typical error roughly in half"
+  },
+  {
+    "objectID": "week9.html#cheat-sheet-how-to-interpret",
+    "href": "week9.html#cheat-sheet-how-to-interpret",
+    "title": "DATA 201 Week 9: Quantitative Analysis",
+    "section": "Cheat Sheet: How to Interpret",
+    "text": "Cheat Sheet: How to Interpret\n\n\n\n\n\n\n\n\nStatistic\nGood sign\nWatch out for\n\n\n\n\nR²\nClose to 1\nNever judge by R² alone\n\n\nAdjusted R²\nClose to R²\nMuch lower means useless predictors\n\n\nStandard Error\nSmall relative to Y\nLarge means weak predictions\n\n\nSignificance F\n&lt; 0.05\n&gt; 0.05 means the model isn’t useful\n\n\nCoefficient\nSensible sign and size\nWrong sign may signal overlapping predictors\n\n\nt Stat\n|t| &gt; 2\nNear 0 means no evidence of an effect\n\n\nP-value\n&lt; 0.05\nDoesn’t prove importance or causation\n\n\n95% CI\nExcludes 0\nVery wide means an imprecise estimate"
+  },
+  {
+    "objectID": "week9.html#key-takeaways",
+    "href": "week9.html#key-takeaways",
+    "title": "DATA 201 Week 9: Quantitative Analysis",
+    "section": "Key Takeaways",
+    "text": "Key Takeaways\n\nScatterplot matrices give a quick visual of trends, distributions, and outliers\nCorrelation (r) summarizes the strength and direction of a linear relationship\nHeatmaps make a correlation matrix easy to scan\nRegression quantifies the relationship and enables prediction"
+  },
+  {
+    "objectID": "week9.html#questions",
+    "href": "week9.html#questions",
+    "title": "DATA 201 Week 9: Quantitative Analysis",
+    "section": "Questions?",
+    "text": "Questions?"
+  },
+  {
+    "objectID": "week9.html#residuals-what-the-line-gets-wrong-1",
+    "href": "week9.html#residuals-what-the-line-gets-wrong-1",
+    "title": "DATA 201 Week 9: Quantitative Analysis",
+    "section": "Residuals: What the Line Gets Wrong",
+    "text": "Residuals: What the Line Gets Wrong\n\\[SSE = \\sum (y_i - \\hat{y}_i)^2\\]\n\nMany of the statistics that follow are built from three sums of squares:\n\nSST (total): how much Sales varies around its mean\nSSR (regression): the part the line explains\nSSE (error): the part left over, with SST = SSR + SSE\n\n\n\nEverything in the output is built from these three quantities, so spend a moment here. Use the scatterplot: draw the mean line, the regression line, and a few residual segments."
+  },
+  {
+    "objectID": "week9.html#residual-plots",
+    "href": "week9.html#residual-plots",
+    "title": "DATA 201 Week 9: Quantitative Analysis",
+    "section": "Residual Plots",
+    "text": "Residual Plots"
+  },
+  {
+    "objectID": "week9.html#residual-plots-1",
+    "href": "week9.html#residual-plots-1",
+    "title": "DATA 201 Week 9: Quantitative Analysis",
+    "section": "Residual Plots",
+    "text": "Residual Plots"
+  },
+  {
+    "objectID": "week9.html#which-line-is-best",
+    "href": "week9.html#which-line-is-best",
+    "title": "DATA 201 Week 9: Quantitative Analysis",
+    "section": "Which Line Is “Best”?",
+    "text": "Which Line Is “Best”?\n\nMany lines could be drawn through the data\nEach point misses the line by some amount: its residual\nSquare the misses and add them up to score a line\nSquaring stops over- and under-predictions from cancelling out\nThe least squares line has the smallest total score"
+  },
+  {
+    "objectID": "week9.html#regression-chart",
+    "href": "week9.html#regression-chart",
+    "title": "DATA 201 Week 9: Quantitative Analysis",
+    "section": "Regression Chart",
+    "text": "Regression Chart"
+  },
+  {
+    "objectID": "week9.html#regression-statistics-in-excel",
+    "href": "week9.html#regression-statistics-in-excel",
+    "title": "DATA 201 Week 9: Quantitative Analysis",
+    "section": "Regression Statistics in Excel",
+    "text": "Regression Statistics in Excel\n\nThe Output Has Three Sections\n\n\nRegression Statistics\n\nHow well does the model fit?\n\nANOVA\n\nI’m going to skip this\n\nCoefficients\n\nWhat does each variable do, and can we trust it?"
+  },
+  {
+    "objectID": "week9.html#multiple-r",
+    "href": "week9.html#multiple-r",
+    "title": "DATA 201 Week 9: Quantitative Analysis",
+    "section": "Multiple R",
+    "text": "Multiple R\n\nMultiple R = 0.947212034\nHow strongly the predictors, taken together, relate to Sales\nIf only one predictor, it’s the same as the correlation coefficient\nCloser to 1 means a stronger relationship"
+  },
+  {
+    "objectID": "week9.html#r-square-r²",
+    "href": "week9.html#r-square-r²",
+    "title": "DATA 201 Week 9: Quantitative Analysis",
+    "section": "R Square (R²)",
+    "text": "R Square (R²)\n\nR Square = 0.897210638\nProportion of variance in response variable (Sales) using the predictor variables (TV, Radio, Newspaper)\n\nValue of 1 =&gt; variability in response can be explained by predictors\nValue of 0 =&gt; variability in response cannot be explained by predictors\n\n\n\nCommon mistake: R² of 0.61 does not mean the predictions are 61% accurate. It means 61% of the variation in Sales is accounted for. R² never goes down when you add variables, which is why adjusted R² exists. 0.6 is strong in marketing, but would be weak in physics."
+  },
+  {
+    "objectID": "week9.html#adjusted-r-square",
+    "href": "week9.html#adjusted-r-square",
+    "title": "DATA 201 Week 9: Quantitative Analysis",
+    "section": "Adjusted R Square",
+    "text": "Adjusted R Square\n\nAdjusted R Square = 0.895637332\nR² with a small penalty for adding predictors\nUse it to compare models with different numbers of variables\nIf it drops when you add a variable, that variable isn’t helping\nClose to R² means the model isn’t padded with useless variables"
+  },
+  {
+    "objectID": "week9.html#standard-error",
+    "href": "week9.html#standard-error",
+    "title": "DATA 201 Week 9: Quantitative Analysis",
+    "section": "Standard Error",
+    "text": "Standard Error\n\nStandard Error = 1.685510373\nThe typical size of a prediction miss, in the units of Sales\nSmaller is better\n\n\nStandard error is often more useful than R² for judging practical accuracy, because it’s in real units. Roughly 95% of actual values fall within two standard errors of the prediction."
+  },
+  {
+    "objectID": "week9.html#reading-the-anova-table",
+    "href": "week9.html#reading-the-anova-table",
+    "title": "DATA 201 Week 9: Quantitative Analysis",
+    "section": "Reading the ANOVA Table",
+    "text": "Reading the ANOVA Table\n\nOnly two numbers really matter: F and Significance F\nF: how much the model explains compared to what it leaves unexplained\n\nBigger F means a stronger model\n\nSignificance F: the p-value for the whole model\n\nBelow 0.05 means the model is useful overall\n\nThe other columns are the building blocks behind R² and F\n\n\nSS is “sum of squares”: Regression = explained variation, Residual = unexplained, Total = both. R² is just Regression SS divided by Total SS (3314.6 / 5417.1 = 0.612). df is degrees of freedom, MS is SS divided by df, and F is MS Regression divided by MS Residual. With one predictor, the F test and the slope’s t test agree. The F test matters more in multiple regression, where it tests all predictors together."
+  },
+  {
+    "objectID": "week9.html#coefficients-the-effect",
+    "href": "week9.html#coefficients-the-effect",
+    "title": "DATA 201 Week 9: Quantitative Analysis",
+    "section": "Coefficients: The Effect",
+    "text": "Coefficients: The Effect\n\nIntercept = 2.939\n\nPredicted Sales when $0 is spent on all three media of advertising (about 2,900 units)\n\nTV = 0.0458\n\nFor each extra $1,000 spent on TV ads, we predict that about 46 more units sold\n\nRadio = 0.1885\n\nEach each extra $1,000 spent on radio ads, we predict that about 189 more units sold\n\nThese values are if other variables are constant\nThis doesn’t mean that radio is better than TV\n\n\nSpend is in thousands of dollars and Sales is in thousands of units, so 0.0458 means 45.8 units per $1,000. Radio returns roughly 4x as many units per dollar as TV. The intercept is an extrapolation if no market has $0 spend on all three media."
+  },
+  {
+    "objectID": "week9.html#coefficients-can-we-trust-it",
+    "href": "week9.html#coefficients-can-we-trust-it",
+    "title": "DATA 201 Week 9: Quantitative Analysis",
+    "section": "Coefficients: Can We Trust It?",
+    "text": "Coefficients: Can We Trust It?\n\nStandard Error: how much the estimate would wobble with different data\n\nSmall relative to the coefficient means a precise estimate\n\nt Stat: the coefficient measured in standard errors\n\nRule of thumb: |t| &gt; 2 is significant\nTV: 32.8, Radio: 21.9, Newspaper: -0.18"
+  },
+  {
+    "objectID": "week9.html#coefficients-confidence-interval",
+    "href": "week9.html#coefficients-confidence-interval",
+    "title": "DATA 201 Week 9: Quantitative Analysis",
+    "section": "Coefficients: Confidence Interval",
+    "text": "Coefficients: Confidence Interval\n\nLower / Upper 95%: the range of plausible values for the true effect\nTV: 0.043 to 0.049\n\nEach $1,000 adds between 43 and 49 units\n\nRadio: 0.172 to 0.206\n\nEach $1,000 adds between 172 and 206 units\n\nNewspaper: -0.013 to 0.011\n\nThe range includes 0, so we can’t rule out no effect\n\n\n\nNewspaper’s “no effect” means no added value given TV and Radio are already in the model. It doesn’t prove newspaper ads never work. Newspaper looked related to Sales in the correlation matrix (r = 0.23) only because it correlates with Radio (r = 0.35). The key is whether the interval includes zero: - TV: Its interval is entirely positive, supporting a positive coefficient. - Radio: Its interval is entirely positive, also supporting a positive coefficient. - Newspaper: Its interval includes zero, meaning the true coefficient could be negative, zero, or positive under the model."
+  },
+  {
+    "objectID": "week9.html#checking-the-residuals",
+    "href": "week9.html#checking-the-residuals",
+    "title": "DATA 201 Week 9: Quantitative Analysis",
+    "section": "Checking the Residuals",
+    "text": "Checking the Residuals\n\nPlot residuals against predicted values (tick “Residuals” in Excel)\nGood: random scatter around 0\nBad: curves, fans, or clear patterns\nA pattern means the straight-line model is missing something\nAlso watch for outliers\n\n\nAssumptions behind the plot: linearity, constant spread, independence, roughly bell-shaped residuals. For TV vs Sales, the residuals fan out slightly at higher spend, which hints that the relationship is not perfectly linear. This motivates adding more predictors."
+  },
+  {
+    "objectID": "week9.html#what-changed-in-the-multiple-model",
+    "href": "week9.html#what-changed-in-the-multiple-model",
+    "title": "DATA 201 Week 9: Quantitative Analysis",
+    "section": "What Changed in the Multiple Model?",
+    "text": "What Changed in the Multiple Model?\n\nEach coefficient is now the effect holding the others constant\nTV and Radio are significant\nNewspaper is not (p-value about 0.86)\nNewspaper looked useful in the correlation matrix only because it correlates with Radio\n\n\nGreat link back to the heatmap: Newspaper had r = 0.23 with Sales but also r = 0.35 with Radio. Its apparent effect was borrowed from Radio. This is why we look at regression, not just correlation."
+  },
+  {
+    "objectID": "week9.html#reading-regression-output-3-steps",
+    "href": "week9.html#reading-regression-output-3-steps",
+    "title": "DATA 201 Week 9: Quantitative Analysis",
+    "section": "Reading Regression Output: 3 Steps",
+    "text": "Reading Regression Output: 3 Steps\n\nFit: R², adjusted R², standard error\nOverall significance: F and Significance F\nEach variable: coefficient, p-value, confidence interval\n\nAlways check the residuals before trusting the model."
+  },
+  {
+    "objectID": "week9.html#scatterplots",
+    "href": "week9.html#scatterplots",
+    "title": "DATA 201 Week 9: Quantitative Analysis",
+    "section": "Scatterplots",
+    "text": "Scatterplots\n\nSkewness\n\nPositive Skew: mean &gt; median\nNegative Skew: mean &lt; median\nNo skew: mean = median = mode"
+  },
+  {
+    "objectID": "week9.html#scatterplots-1",
+    "href": "week9.html#scatterplots-1",
+    "title": "DATA 201 Week 9: Quantitative Analysis",
+    "section": "Scatterplots",
+    "text": "Scatterplots\n\nSkewness\n\nPositive Skew: mean &gt; median\nNegative Skew: mean &lt; median\nNo skew: mean = median = mode"
+  },
+  {
+    "objectID": "week9.html#histograms",
+    "href": "week9.html#histograms",
+    "title": "DATA 201 Week 9: Quantitative Analysis",
+    "section": "Histograms",
+    "text": "Histograms\n\nHistograms show the distribution on the diagonal\n\nDistribution: frequency of values in a dataset\nNormal/Symmetric? Many values near the centre\nUniform? The frequency of values are about the same, looks boxy\nRight/Left skewed? Values are mostly low or high\nBimodal? (two peaks) There could be two unique distributions"
+  },
+  {
+    "objectID": "week9.html#histograms-distribution",
+    "href": "week9.html#histograms-distribution",
+    "title": "DATA 201 Week 9: Quantitative Analysis",
+    "section": "Histograms: Distribution",
+    "text": "Histograms: Distribution\n\nHistograms show the distribution on the diagonal\n\nDistribution: frequency of values in a dataset\nNormal/Symmetric? Many values near the centre\nUniform? The frequency of values are about the same, looks boxy\nRight/Left skewed? Values are mostly low or high\nBimodal? (two peaks) There could be two unique distributions"
+  },
+  {
+    "objectID": "week9.html#histograms-skewness",
+    "href": "week9.html#histograms-skewness",
+    "title": "DATA 201 Week 9: Quantitative Analysis",
+    "section": "Histograms: Skewness",
+    "text": "Histograms: Skewness\n\nSkewness\n\nPositive Skew: mean &gt; median\nNegative Skew: mean &lt; median\nNo skew: mean = median = mode"
+  },
+  {
+    "objectID": "week9.html#coefficients-newspaper",
+    "href": "week9.html#coefficients-newspaper",
+    "title": "DATA 201 Week 9: Quantitative Analysis",
+    "section": "Coefficients: Newspaper",
+    "text": "Coefficients: Newspaper\n\nNewspaper = -0.0010\n\nEssentially zero, and slightly negative\n\nEach extra $1,000 on newspaper goes with about 1 fewer unit\n\nToo small to matter\n\nThe sign shows direction and the size shows strength\n\n\nDon’t read the negative sign as “newspaper ads hurt sales.” The estimate is statistically indistinguishable from zero, as the p-value and confidence interval will show."
+  },
+  {
+    "objectID": "week9.html#p-value",
+    "href": "week9.html#p-value",
+    "title": "DATA 201 Week 9: Quantitative Analysis",
+    "section": "P-Value",
+    "text": "P-Value\n\nindicates how likely a statistical result occured by chance\nsmall p value:\n\nstatistically significant, unlikely to be chance alone\naccept alternative hypothesis\nAlternative hypothesis: theory you are trying to prove\n\nhigh p value:\n\nstatistically non-significant, likely to be chance\nfailed to reject null-hypothesis\nNull hypothesis: theory you are trying to disprove\n\np-values range from: 0 - 0.1\n\n\nNewspaper’s standard error (0.0059) is much larger than its coefficient (0.0010), so the t stat is near 0. A p-value of 0.86 means that if newspaper truly had no effect, we’d see an estimate this size about 86% of the time just by chance."
   }
 ]
