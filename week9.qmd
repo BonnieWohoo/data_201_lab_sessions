@@ -263,8 +263,8 @@ The key is whether the interval includes zero:
 - Assignment 8: Group focused
 - Quick Poll re Wednesday:
 - livepoll.io/join
-    - Code: A8Q8HE
-![](https://api.qrserver.com/v1/create-qr-code/?size=160x160&data=https%3A%2F%2Flivepoll.io%2Fjoin%3Fcode%3DA8Q8HE)
+    - Code: B694NW
+![](https://api.qrserver.com/v1/create-qr-code/?size=160x160&data=https%3A%2F%2Flivepoll.io%2Fjoin%3Fcode%3DB694NW)
 
 ## Some resources:
 [Simple Distribution YouTube Video](https://www.youtube.com/watch?v=pLQ9RPj6TYE)
