@@ -263,7 +263,7 @@
     "href": "week10.html#data-scraping",
     "title": "DATA 201 Week 10: Sentiment Analysis and Visualization",
     "section": "Data scraping",
-    "text": "Data scraping\n\nData scraping is cool!\n\nSometimes it goes against website licenses, so you need to be careful\n\nAre you using the data ethically? Will you harm anyone with the data?\n\nSome websites have APIs that you can access their data from\n\nFor this course: you don’t need to worry too much\n\nInstant Data Scraper\nI did not like their Privacy Policy on Data Collection\nAlternative"
+    "text": "Data scraping\n\nData scraping is cool!\n\nSometimes it goes against website licenses, so you need to be careful\n\nAre you using the data ethically? Will you harm anyone with the data?\n\nSome websites have APIs that you can access their data from\n\nFor this course: you don’t need to worry too much"
   },
   {
     "objectID": "week10.html#extra-context-regarding-data-scraping",
@@ -277,7 +277,7 @@
     "href": "week10.html#sentiment-analysis",
     "title": "DATA 201 Week 10: Sentiment Analysis and Visualization",
     "section": "Sentiment Analysis",
-    "text": "Sentiment Analysis\n\nNLP: Natural Language Processing\n\nWidely used choice: Python\nNatural Language Toolkit\n\nTechniques used:\n\nTokenization, stemming, lemmatization, stopwords\n\nIt’s cool, but be wary\n\nSmall datasets can give inexact results"
+    "text": "Sentiment Analysis\n\nNLP: Natural Language Processing\n\nWidely used choice: Python\nNatural Language Toolkit\n\nIt’s cool, but be wary\n\nSmall datasets can give inexact results"
   },
   {
     "objectID": "week10.html#sentiment-analysis-cont.",
@@ -291,7 +291,7 @@
     "href": "week10.html#score-types",
     "title": "DATA 201 Week 10: Sentiment Analysis and Visualization",
     "section": "Score types",
-    "text": "Score types\n\nPolarity: Classifies the statement into Negative, Neutral, or Positive\n\nVery negative: -1, Neutral: 0, Very Positive: 1\n\nSubjectivity: How opinion-based (Range 0 - 1)\n\n1 is subjective\nUnder 0.5 is leaning towards fact/objective\n0 is objective\n\nObjectivity: How fact-based (Range 0 - 1)\n\n1 is objective\nUnder 0.5 is leaning towards opinion/subjective\n0 is subjective\n\nEmotion scores:\n\nValues and labels"
+    "text": "Score types\n\nPolarity: Classifies the statement into Negative, Neutral, or Positive\n\nVery negative: -1, Neutral: 0, Very Positive: 1\n\nSubjectivity: How opinion-based (Range 0 - 1)\n\n1 is subjective, 0 is objective\nUnder 0.5 is leaning towards fact/objective\n\nObjectivity: How fact-based (Range 0 - 1)\n\n1 is objective, 0 is subjective\nUnder 0.5 is leaning towards opinion/subjective\n\nEmotion scores:\n\nValues and labels"
   },
   {
     "objectID": "week10.html#using-ai-for-sentiment-analysis",
@@ -326,14 +326,14 @@
     "href": "week10.html#ai-prompting-and-cleaning",
     "title": "DATA 201 Week 10: Sentiment Analysis and Visualization",
     "section": "AI Prompting and cleaning",
-    "text": "AI Prompting and cleaning\n\nCleaned data  here \nPrompt  here \nVisualizations\n\nTable\nWord Cloud\nScatter plot\n\npolarity against subjectivity\n\nBar chart\n\nTheme against scores\n\nDonut chart"
+    "text": "AI Prompting and cleaning\n\nCleaned data  here \nPrompt  here"
   },
   {
     "objectID": "week10.html#world-cloud",
     "href": "week10.html#world-cloud",
     "title": "DATA 201 Week 10: Sentiment Analysis and Visualization",
     "section": "World Cloud",
-    "text": "World Cloud\nPros: - Engaging and interactive - Fast - Size corresponds to the frequency Cons: - We’re bad at decoding size - Colours should be strategically used - Red corresponds to negative words - Green for good - Red/Pink for love - Blue for sad"
+    "text": "World Cloud\n\nPros:\n\nEngaging and interactive\nFast\nSize corresponds to the frequency\n\nCons:\n\nWe’re bad at decoding size\nColours should be strategically used\n\nRed corresponds to negative words\nGreen for good\nRed/Pink for love\nBlue for sad"
   },
   {
     "objectID": "week10.html#announcements",
@@ -768,5 +768,26 @@
     "title": "DATA 201 Week 9: Quantitative Analysis",
     "section": "Some resources:",
     "text": "Some resources:\nSimple Distribution YouTube Video\nYouTube Crash Course Regression"
+  },
+  {
+    "objectID": "week10.html#ways-to-get-data",
+    "href": "week10.html#ways-to-get-data",
+    "title": "DATA 201 Week 10: Sentiment Analysis and Visualization",
+    "section": "Ways to get data",
+    "text": "Ways to get data\n\nInstant Data Scraper\nI did not like their Privacy Policy on Data Collection\nAlternative"
+  },
+  {
+    "objectID": "week10.html#techniques",
+    "href": "week10.html#techniques",
+    "title": "DATA 201 Week 10: Sentiment Analysis and Visualization",
+    "section": "Techniques",
+    "text": "Techniques\n\nTokenization: The quick brown fox jumped over the lazy dog\n\n“the” “quick” “brown” “fox” “jumped” “over” “the” “lazy” “dog”\n\nStemming / Lemmatization\n\n“jumped” -&gt; “jump”\n“improve” “improving” “improvement” -&gt; “improve”\n\nStopwords\n\n“it’s” “the” “over”\n“quick” “brown” “fox” “jumped” “lazy” “dog”"
+  },
+  {
+    "objectID": "week10.html#visualizations",
+    "href": "week10.html#visualizations",
+    "title": "DATA 201 Week 10: Sentiment Analysis and Visualization",
+    "section": "Visualizations",
+    "text": "Visualizations\n\nTable\nWord Cloud\nScatter plot\n\npolarity against subjectivity\n\nBar chart\n\nTheme against scores\n\nDonut chart"
   }
 ]

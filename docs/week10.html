@@ -172,12 +172,15 @@ Bonnie Wu
 </ul></li>
 <li class="fragment">Some websites have APIs that you can access their data from</li>
 </ul></li>
-<li class="fragment">For this course: you don’t need to worry too much
+<li class="fragment">For this course: you don’t need to worry too much</li>
+</ul>
+</section>
+<section id="ways-to-get-data" class="slide level2">
+<h2>Ways to get data</h2>
 <ul>
 <li class="fragment">Instant Data Scraper</li>
 <li class="fragment">I did not like their Privacy Policy on Data Collection</li>
 <li class="fragment"><a href="https://github.com/Lygobate/Open-scraper-chrome-extention">Alternative</a></li>
-</ul></li>
 </ul>
 </section>
 <section id="extra-context-regarding-data-scraping" class="slide level2">
@@ -204,13 +207,28 @@ Bonnie Wu
 <li class="fragment">Widely used choice: Python</li>
 <li class="fragment"><a href="https://www.nltk.org/">Natural Language Toolkit</a></li>
 </ul></li>
-<li class="fragment">Techniques used:
-<ul>
-<li class="fragment">Tokenization, stemming, lemmatization, stopwords</li>
-</ul></li>
 <li class="fragment">It’s cool, but be wary
 <ul>
 <li class="fragment">Small datasets can give inexact results</li>
+</ul></li>
+</ul>
+</section>
+<section id="techniques" class="slide level2">
+<h2>Techniques</h2>
+<ul>
+<li class="fragment">Tokenization: The quick brown fox jumped over the lazy dog
+<ul>
+<li class="fragment">“the” “quick” “brown” “fox” “jumped” “over” “the” “lazy” “dog”</li>
+</ul></li>
+<li class="fragment">Stemming / Lemmatization
+<ul>
+<li class="fragment">“jumped” -&gt; “jump”</li>
+<li class="fragment">“improve” “improving” “improvement” -&gt; “improve”</li>
+</ul></li>
+<li class="fragment">Stopwords
+<ul>
+<li class="fragment">“it’s” “the” “over”</li>
+<li class="fragment">“quick” “brown” “fox” “jumped” “lazy” “dog”</li>
 </ul></li>
 </ul>
 </section>
@@ -228,7 +246,7 @@ Bonnie Wu
 </ul></li>
 </ul>
 </section>
-<section id="score-types" class="slide level2">
+<section id="score-types" class="slide level2 smaller">
 <h2>Score types</h2>
 <ul>
 <li class="fragment">Polarity: Classifies the statement into Negative, Neutral, or Positive
@@ -237,15 +255,13 @@ Bonnie Wu
 </ul></li>
 <li class="fragment">Subjectivity: How opinion-based (Range 0 - 1)
 <ul>
-<li class="fragment">1 is subjective</li>
+<li class="fragment">1 is subjective, 0 is objective</li>
 <li class="fragment">Under 0.5 is leaning towards fact/objective</li>
-<li class="fragment">0 is objective</li>
 </ul></li>
 <li class="fragment">Objectivity: How fact-based (Range 0 - 1)
 <ul>
-<li class="fragment">1 is objective</li>
+<li class="fragment">1 is objective, 0 is subjective</li>
 <li class="fragment">Under 0.5 is leaning towards opinion/subjective</li>
-<li class="fragment">0 is subjective</li>
 </ul></li>
 <li class="fragment">Emotion scores:
 <ul>
@@ -284,15 +300,18 @@ Bonnie Wu
 <h2>Data scraping</h2>
 <ul>
 <li class="fragment"><a href="https://www.youtube.com/watch?v=f_bKjZeJBBI">The Odyssey Trailer</a></li>
-<li class="fragment">Pre-scraped (unclean)<a href="./youtube_uncleaned.csv" download=""> here </a></li>
+<li class="fragment">Pre-scraped (unclean)<a href="./youtube_unclean.csv" download=""> here </a></li>
 </ul>
 </section>
 <section id="ai-prompting-and-cleaning" class="slide level2">
 <h2>AI Prompting and cleaning</h2>
 <ul>
-<li class="fragment">Cleaned data <a href="./youtube.csv" download=""> here </a></li>
+<li class="fragment">Cleaned data <a href="./odyssey_youtube_comment_analysis.csv" download=""> here </a></li>
 <li class="fragment">Prompt <a href="./Prompt1.docx" download=""> here </a></li>
-<li class="fragment">Visualizations
+</ul>
+</section>
+<section id="visualizations" class="slide level2">
+<h2>Visualizations</h2>
 <ul>
 <li class="fragment">Table</li>
 <li class="fragment">Word Cloud</li>
@@ -305,12 +324,29 @@ Bonnie Wu
 <li class="fragment">Theme against scores</li>
 </ul></li>
 <li class="fragment">Donut chart</li>
-</ul></li>
 </ul>
 </section>
 <section id="world-cloud" class="slide level2">
 <h2>World Cloud</h2>
-<p>Pros: - Engaging and interactive - Fast - Size corresponds to the frequency Cons: - We’re bad at decoding size - Colours should be strategically used - Red corresponds to negative words - Green for good - Red/Pink for love - Blue for sad</p>
+<ul>
+<li class="fragment">Pros:
+<ul>
+<li class="fragment">Engaging and interactive</li>
+<li class="fragment">Fast</li>
+<li class="fragment">Size corresponds to the frequency</li>
+</ul></li>
+<li class="fragment">Cons:
+<ul>
+<li class="fragment">We’re bad at decoding size</li>
+<li class="fragment">Colours should be strategically used
+<ul>
+<li class="fragment">Red corresponds to negative words</li>
+<li class="fragment">Green for good</li>
+<li class="fragment">Red/Pink for love</li>
+<li class="fragment">Blue for sad</li>
+</ul></li>
+</ul></li>
+</ul>
 </section>
 <section id="announcements" class="slide level2">
 <h2>Announcements</h2>
