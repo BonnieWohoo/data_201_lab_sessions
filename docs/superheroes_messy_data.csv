@@ -1,0 +1,24 @@
+hero_name,universe,alignment,salary,height,weight (lbs),years_active,home_city,team,email
+Spider-Man ,Marvel,Hero,52000,"5'8""",167,8,New York City,Avengers,peter.p@dailybugle.com
+batman ,DC,Hero,185000,"6'2""",210,20,Gotham City,Justice League,
+Iron Man ,Marvel,hero,1200000,"6'1""",225,15,Malibu,Avengers,tony@starkindustries.com
+    Wonder Woman ,DC,Hero,,"6'0""",165,,Themyscira,Justice League,diana.prince@state.gov
+Thanos ,Marvel,Villain,0,"6'8""",1000,25,Titan,,
+Joker ,DC,Villain,-5000,"6'0""",150,10,Gotham City ,,thejoker@arkham.gov
+spider-man ,Marvel,Hero,52000,"5'8""",167,8,New York,Avengers,peter.p@dailybugle.com
+Black Widow ,Marvel,Hero,95000,"5'7""",130,12,Unknown,Avengers,natasha.r@shield.gov
+Superman   ,DC,Hero,,"6'3""",235,30,Metropolis,Justice League,clark.kent@dailyplanet.com
+Harley Quinn   ,DC,villain,45000,"5'6""",140,7,Gotham City,,
+Thor ,Marvel,Hero,999999,"6'6""",640,1000,Asgard,Avengers,thor.odinson@asgard.realm
+Lex Luthor ,DC,Villain,2500000,"6'2""",210,18,Metropolis,,lex@lexcorp.com
+Captain America ,Marvel,Hero,72000,"6'2""",220,,Brooklyn,Avengers,steve.r@avengers.org
+Catwoman ,DC,Anti-Hero,,"5'7""",130,9,Gotham City,,
+Deadpool ,Marvel,Anti-Hero,15000,"5'11""",210,11,New York City,X-Force,wade.w@mercswithamouth.com
+The     Flash ,DC,Hero,68000,"6'0""",175,6,Central City,Justice League,barry.allen@ccpd.gov
+Hulk ,Marvel,Hero,88000,"7'0""",1400,13,Unknown,Avengers,
+Aquaman ,DC,Hero,105000,"6'5""",325,14,Atlantis,Justice League,arthur.curry@atlantis.gov
+  Green Goblin ,Marvel,Villain,,"6'2""",180,5,New York City,,
+Cyborg ,DC,Hero,61000,"6'7""",980,4,Detroit,Justice League,victor.stone@justiceleague.org
+Catwoman ,DC,Anti-Hero,,"5'7""",130,9,Gotham City,,
+Deadpool ,Marvel,Anti-Hero,15000,"5'11""",210,11,New York City,X-Force,wade.w@mercswithamouth.com
+The Flash ,DC,Hero,68000,"6'0""",175,6,Central City,Justice League,barry.allen@ccpd.gov
