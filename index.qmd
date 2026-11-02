@@ -31,3 +31,5 @@ Passcode: 325942
 [Week 6 Wednesday Lab Slides](./week6_2.qmd)
 
 [Week 9 Lab Slides](./week9.qmd)
+
+[Week 10 Lab Slides](./week10.qmd)

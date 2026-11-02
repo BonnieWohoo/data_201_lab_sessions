@@ -1,0 +1,127 @@
+---
+title: "DATA 201 Week 10: Sentiment Analysis and Visualization"
+author: "Bonnie Wu"
+format: 
+  revealjs:
+    theme: default
+    slide-number: true
+    chalkboard: true
+    transition: slide
+    background-transition: fade
+    incremental: true
+---
+
+## Content
+- Sentiment analysis
+- Announcements
+- Worktime
+
+## Short sentiment analysis
+- Data scraping
+- Sentiment Analysis
+
+## Data scraping
+- Data scraping is cool!
+  - Sometimes it goes against website licenses, so you need to be careful
+    - Are you using the data ethically? Will you harm anyone with the data?
+  - Some websites have APIs that you can access their data from
+- For this course: you don't need to worry too much
+  - Instant Data Scraper
+  - I did not like their Privacy Policy on Data Collection
+  - [Alternative](https://github.com/Lygobate/Open-scraper-chrome-extention)
+
+## Extra context regarding data scraping
+- Scripts to extract data
+- Lots of requests to servers
+  - Server overload, can't fulfill everyone's request quickly
+  - Bad for real users
+  - Hosting costs money
+- If the website is a large database that has been worked over a long time
+  - Scraping dismisses their hard work
+
+## Sentiment Analysis
+- NLP: Natural Language Processing
+  - Widely used choice: Python
+  - [Natural Language Toolkit](https://www.nltk.org/)
+- Techniques used:
+  - Tokenization, stemming, lemmatization, stopwords
+- It's cool, but be wary
+  - Small datasets can give inexact results
+
+## Sentiment Analysis cont.
+- Themes
+  - Example: Business
+  - Reviews may have feedback themes like delivery, support service, pricing
+- Symbolic approach
+  - Using rules and/or phrasebooks to code phrases
+
+## Score types
+- Polarity: Classifies the statement into Negative, Neutral, or Positive
+  - Very negative: -1, Neutral: 0, Very Positive: 1
+- Subjectivity: How opinion-based (Range 0 - 1)
+  - 1 is subjective
+  - Under 0.5 is leaning towards fact/objective
+  - 0 is objective
+- Objectivity: How fact-based (Range 0 - 1)
+  - 1 is objective
+  - Under 0.5 is leaning towards opinion/subjective
+  - 0 is subjective
+- Emotion scores:
+  - Values and labels
+
+## Using AI for sentiment analysis
+- How to use AI:
+  - Cleaning the dataset
+  - Generating metrics about the dataset
+- [D2L Sample Prompt](https://d2l.ucalgary.ca/d2l/le/content/769633/viewContent/7727684/View)
+
+## Graphing sentiment analysis
+- Word frequencies: Bar charts, word clouds
+- Polarity scores: Bar charts, scatter plots
+- Themes: Bar charts, correlation matrices
+
+## Let's realtime do sentiment analysis
+- Data scraping
+- Using AI and prompting to clean
+- Visualization
+
+## Data scraping
+- [The Odyssey Trailer](https://www.youtube.com/watch?v=f_bKjZeJBBI)
+- Pre-scraped (unclean)<a href="./youtube_uncleaned.csv" download> here </a>
+
+## AI Prompting and cleaning
+- Cleaned data <a href="./youtube.csv" download> here </a>
+- Prompt <a href="./Prompt1.docx" download> here </a>
+- Visualizations
+  - Table
+  - Word Cloud
+  - Scatter plot
+    - polarity against subjectivity
+  - Bar chart
+    - Theme against scores
+  - Donut chart
+
+## World Cloud
+Pros: 
+- Engaging and interactive
+- Fast
+  - Size corresponds to the frequency
+Cons:
+- We're bad at decoding size
+- Colours should be strategically used
+  - Red corresponds to negative words
+  - Green for good
+  - Red/Pink for love
+  - Blue for sad
+
+## Announcements
+- Assignment 9 is the **LAST** assignment
+  - aka, there is no assignment 10
+- Fall Term break is next week!
+- Group Project final presentations 
+  - During **Lecture** the week of **Nov 16th**
+    - NOT the 22nd
+  - No presentation slides: live from your dashboard
+  - Practice runs?
+    - Leaning towards work time on Wednesday
+    - We could run practice runs on Nov 4th or Nov 16th! 
