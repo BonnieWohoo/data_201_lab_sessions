@@ -1,0 +1,12 @@
+---
+title: "DATA 201 Week 11: Practice Presentations"
+author: "Bonnie Wu"
+format: 
+  revealjs:
+    theme: default
+    slide-number: true
+    chalkboard: true
+    transition: slide
+    background-transition: fade
+    incremental: true
+---
